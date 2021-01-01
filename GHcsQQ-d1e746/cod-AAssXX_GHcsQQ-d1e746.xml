@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 9</title>
+        <author ref="#per-sdv3av">Marcantonio Zimara</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 9</title>
+          <date when="2021-01-01">January 01, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="J" n="cod-AAssXX">Venice 1562</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#J" n="415-r"/>
+        <cb ed="#J" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHcsQQ-d1e746">
+        <head xml:id="GHcsQQ-d1e746-Hd1e107">Liber 9</head>
+        <p xml:id="GHcsQQ-d1e746-d1e110">
+          <lb ed="#J" n="97"/>So EVE2ANES 
+          <lb ed="#J" n="98"/>contradictionum in dictis 
+          <lb ed="#J" n="99"/>Auerrois, &amp; Arist. 
+          <lb ed="#J" n="100"/>Super Nono Metaphysicorum.
+        </p>
+        <div xml:id="GHcsQQ-d1e7485">
+          <head xml:id="GHcsQQ-d1e746-Hd1e123">Contradictio 1</head>
+          <p xml:id="GHcsQQ-d1e746-d1e126">
+            <lb ed="#J" n="101"/>COntradi. est in co. . Auer.
+            di<lb ed="#J" n="102" break="no"/>cit quod forma: liberatae a
+            mate<lb ed="#J" n="103" break="no"/>ria sunt tantum agentse, nullo 
+            <lb ed="#J" n="104"/>modo patientes, neque essentia 
+            <lb ed="#J" n="105"/>liter, neque accidentaliter. Sed  
+            <lb ed="#J" n="106"/>oponebat ibi de anima intellectiua, quae re 
+            <lb ed="#J" n="107"/>cipit intellectionem, &amp; species intellectas, Sol 
+            <lb ed="#J" n="108"/>uitur dictum Auer. veritatem habet secundum principia 
+            <lb ed="#J" n="109"/>Philosophi. Pro quo debes scire, quod actus,  
+            <!--Averroes_Metaphysica_JuntSecunda_08-0830.xml-->
+            <pb ed="#J" n="415-v"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>&amp; formae est agere &amp; mouere. e. de
+            genera<lb ed="#J" n="2" break="no"/>tione. tex. com. si. &amp;. 8. meta. tex. con. io. &amp;. i. 
+            <lb ed="#J" n="3"/>phy. i. 8. materic autem est moueri, &amp; pati. vni 
+            <lb ed="#J" n="4"/>de quaelibet forma, siue materialis, siue sepa 
+            <lb ed="#J" n="5"/>rata fuerit, actiua est: nec aliqua sub hac
+            ra<lb ed="#J" n="6" break="no"/>tione, qua forma est, est passiua: quia passiutu 
+            <lb ed="#J" n="7"/>esse insequitur potentiam, quae est primo 
+            <lb ed="#J" n="8"/>diuersa ab actu. Si igitur aliqua forma
+            pas<lb ed="#J" n="9" break="no"/>siua fuerit, ista passibilitas comperit sibi
+            ratio<lb ed="#J" n="10" break="no"/>ne, qua potentia participat. passibilitas autem 
+            <lb ed="#J" n="11"/>ista duplex est, quaedam signata, &amp; realis, &amp;  
+            <lb ed="#J" n="12"/>ista insequitur primo secundum Philosophos nia 
+            <lb ed="#J" n="13"/>teriam quantam. Vnde, si qua forma passi 
+            <lb ed="#J" n="14"/>ua fuerit passione, &amp; receptione signata, si 
+            <lb ed="#J" n="15"/>ue realis, site spinitualis fuerit, hoc est rationem 
+            <lb ed="#J" n="16"/>materiae, sicut scribit Conimen comm. g. i. de 
+            <lb ed="#J" n="17"/>anima ad principium cum, &amp; con. S Aiia est 
+            <lb ed="#J" n="18"/>passio &amp; receptio vniversalis, &amp; abstracta. &amp; istius 
+            <lb ed="#J" n="19"/>ratio est intellectus. possibilis, qui nullam 
+            <lb ed="#J" n="20"/>aliam naturam habet nisi quia possibilis 
+            <lb ed="#J" n="21"/>vocatus est. &amp; iste intellectu. est materia in 
+            <lb ed="#J" n="22"/>telliuibilium. &amp; est quartum geneus enriums 
+            <lb ed="#J" n="23"/>sicut dicit. Com. a. de anima. con.e. in solutio 
+            <lb ed="#J" n="24"/>ne.  quodnis. Si forniae igitur existentes in ma 
+            <lb ed="#J" n="25"/>te nia reali passione patiantur, hoc est rationem 
+            <lb ed="#J" n="26"/>materiae. Vnde Commen 8. coeli. con. ax. dice 
+            <lb ed="#J" n="27"/>bat. forma in motu elementi mouet, sed vt 
+            <lb ed="#J" n="28"/>est forma in materia mouetur, quod etiam sen 
+            <lb ed="#J" n="29"/>sitiuae virtutes signatae recipiant est, quia sunt 
+            <lb ed="#J" n="30"/>in materia. Sequitur igitur quod cum omnes 
+            <lb ed="#J" n="31"/>formae a materia separatae praeter animam 
+            <lb ed="#J" n="32"/>nostram intellectiuam, quae infima est secundum 
+            <lb ed="#J" n="33"/>ipsum inter abstractas. de anima, con. iSi 
+            <lb ed="#J" n="34"/>nullo modo passiuam esse non essentialitet 
+            <lb ed="#J" n="35"/>quia cuilibet formae, vt forma est, repugnat 
+            <lb ed="#J" n="36"/>essentialiter pati, etiam materialibus. vnde 
+            <lb ed="#J" n="37"/>Commen 8. phy. com si i. qui dixerit formas per 
+            <lb ed="#J" n="38"/>se moueri non est amplius loquendum cum 
+            <lb ed="#J" n="39"/>eo in hac scientia, neque etiam accidenta 
+            <lb ed="#J" n="40"/>liter, quia forma accidentaliter patitur ra 
+            <lb ed="#J" n="41"/>tione potentie, quae vel est materia, vel est 
+            <lb ed="#J" n="42"/>inteliectus possibilis. in talibus autem non 
+            <lb ed="#J" n="43"/>est materia: indeo non possunt pati passione 
+            <lb ed="#J" n="44"/>reali &amp; sis nata secundum Philosophos, neque etiam 
+            <lb ed="#J" n="45"/>passione spirituali, qui a non intelligunt per 
+            <lb ed="#J" n="46"/>receptionem, nec in eis est vere intellectus 
+            <lb ed="#J" n="47"/>possibilis, licet Comen. videatur illud dicere, 
+            <lb ed="#J" n="48"/>sed secundum rationem, vt alias declarauimus. Nul 
+            <lb ed="#J" n="49"/>lo igitur modo pati possunt tales formae, neque 
+            <lb ed="#J" n="50"/>per se, neque per accidens, nec passione
+            reali<lb ed="#J" n="51" break="no"/>nec spirituali, cum intelligant per essentiam, 
+            <lb ed="#J" n="52"/>&amp; non per species secundum Philosophos. Anima 
+            <lb ed="#J" n="53"/>autem intellectiua, cum sit infima inter abstra 
+            <lb ed="#J" n="54"/>cta, cum sit composita ex intellectu possibi 
+            <lb ed="#J" n="55"/>vere, &amp; ex intellectu agente, ratione
+            possi<lb ed="#J" n="56" break="no"/>bilis rassiua est ratione vero agentis est acti¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0830.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>ua. sed passio ista est alterius rationis a past 
+            <lb ed="#J" n="58"/>sione materiae, sicut seribit Commeni i. de 
+            <lb ed="#J" n="59"/>anima con. is. vbi formaliter ponitur ista
+            fo<lb ed="#J" n="60" break="no"/>lutio ad instantiam motam a nobis hic,
+            si<lb ed="#J" n="61" break="no"/>cut tu diligenter poteris ibi videre
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e7656">
+          <head xml:id="GHcsQQ-d1e746-Hd1e294">Contradictio 2</head>
+          <p xml:id="GHcsQQ-d1e746-d1e297">
+            <lb ed="#J" n="62"/>Secunda contradi. est super tex. .
+            Aristo<lb ed="#J" n="63" break="no"/>&amp; Coninien ponunt differentiam hic
+            in<lb ed="#J" n="64" break="no"/>ter potentias rationales, actiuas, &amp; irrations 
+            <lb ed="#J" n="65"/>les: quia rationales sunt contrariorum,
+            irra<lb ed="#J" n="66" break="no"/>tionales vero nequaquam, sed vnius tantum 
+            <lb ed="#J" n="67"/>per se loquendo. Sed est instantia de virtute 
+            <lb ed="#J" n="68"/>niotiua volunta rie: cuius nedum est moue 
+            <lb ed="#J" n="69"/>re corpus de loro ad locum, verumetiam &amp;  
+            <lb ed="#J" n="70"/>retinere. sicut auis volans in aere. dum sistit 
+            <lb ed="#J" n="71"/>seipsam, ille status causatur a tali virtute
+            mo<lb ed="#J" n="72" break="no"/>tiua. &amp; similiter homo, quando stat erectus,
+            ille<lb ed="#J" n="73" break="no"/>status a tali virtute causatur, alioquin homo 
+            <lb ed="#J" n="74"/>non posset stare, si ille status ab illa virtute 
+            <lb ed="#J" n="75"/>non esset, sed caderet. quemadmodum si 
+            <lb ed="#J" n="76"/>homo dormiens poneretur erectus, vt dicit 
+            <lb ed="#J" n="77"/>Calenus in lib. de rigore, &amp; tremore.
+            Am<lb ed="#J" n="78" break="no"/>plius per eandem vittutem mouetur graue 
+            <lb ed="#J" n="79"/>deo rsum, &amp; quiescit deorsum, &amp; patet, quod  
+            <lb ed="#J" n="80"/>virtutes islae sunt irrationales, sicut
+            patet<lb ed="#J" n="81" break="no"/>Auet. autem videtur soluere primam
+            difficul<lb ed="#J" n="82" break="no"/>tatem occulte in. a. pPhysi. con. A si. videtur enim 
+            <lb ed="#J" n="83"/>velle, quod virtus concupiscibilis est de
+            virtuti<lb ed="#J" n="84" break="no"/>bus passiuis apta nata recipere duo contra, 
+            <lb ed="#J" n="85"/>ria aequaliter. &amp; quia ille motus voluntarie 
+            <lb ed="#J" n="86"/>sit a virtute concupiscibili, quae dererminatur 
+            <lb ed="#J" n="87"/>ab obiecto, tamen cessar primum. Ad secundum autem 
+            <lb ed="#J" n="88"/>diceretur quod virtus grauitatis per se, &amp; primo 
+            <lb ed="#J" n="89"/>est causa quietis, &amp; secundario est causa mo 
+            <lb ed="#J" n="90"/>tus, quia elementum est in potentia acciden 
+            <lb ed="#J" n="91"/>tali ad motum deorsum, quae est potentiae 
+            <lb ed="#J" n="92"/>violenta, postquam passum est violentiam. 
+            <lb ed="#J" n="93"/>in hoc igitur consistit differentia, quia
+            vir<lb ed="#J" n="94" break="no"/>tutes actiuae rationales per se, &amp;
+            principali<lb ed="#J" n="95" break="no"/>ter ex sui natura sunt indeterm inatae ad agen 
+            <lb ed="#J" n="96"/>dum duo contraria aequaliter, sed natura: et 
+            <lb ed="#J" n="97"/>vnum per se, aliud per accidens, aut vnum 
+            <lb ed="#J" n="98"/>ex principali intentione, aliud vero
+            secunda<lb ed="#J" n="99" break="no"/>rio, sic caldum per se calefacit, sed per
+            acci<lb ed="#J" n="100" break="no"/>dens infrigidat, &amp; srigidum per se infrigidat, 
+            <lb ed="#J" n="101"/>&amp; per acc idens calefacit, &amp; quandocque ac 
+            <lb ed="#J" n="102"/>cidit, vt effectus per accidens sit validior ef 
+            <lb ed="#J" n="103"/>fectu per se, vt pater expertis in naturalibus, 
+            <lb ed="#J" n="104"/>Nec videatur ubi mirum, si dixerim formam 
+            <lb ed="#J" n="105"/>grauitatis per se primo esse causam quieris, 
+            <lb ed="#J" n="106"/>&amp; non motus: nam ista est etiam sententia 
+            <lb ed="#J" n="107"/>Auer. in. A. coeli. in com. x8. &amp; hoc etiam su 
+            <lb ed="#J" n="108"/>pra notaui tibi.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e7766">
+          <head xml:id="GHcsQQ-d1e746-Hd1e404">Contradictio 3</head>
+          <p xml:id="GHcsQQ-d1e746-d1e407">
+            <lb ed="#J" n="109"/>Tertia contradi. est in com. r. Scribit Con 
+            <lb ed="#J" n="110"/>quod potentia ad sanitatem &amp; ad aegcitudinem est 
+            <lb ed="#J" n="111"/>eadem. Oppositum patet. 8. physi. tex. conm. i
+            o<lb ed="#J" n="112" break="no"/>vbi habet quod, si potentia a sanitatem, &amp; aegri¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0831.xml-->
+            <pb ed="#J" n="415-r"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>tudinem esset vna, tunc sanitas &amp; aegritudo 
+            <lb ed="#J" n="2"/>esset vnum &amp; idem. Soluitur. loquitur hic 
+            <lb ed="#J" n="3"/>potentia subiectiua, quia eadem est materia 
+            <lb ed="#J" n="4"/>contrariorum. sed. i. pny. loquitur de poten 
+            <lb ed="#J" n="5"/>tia obiectiua idem autem est ens in potentiae 
+            <lb ed="#J" n="6"/>obiectiua ad actum, &amp; ens in actu. Vnde
+            Con<lb ed="#J" n="7" break="no"/>dicit. 8i. meta. com. is. agens extrahens aligo 
+            <lb ed="#J" n="8"/>de potentia ad actum non largitur multitu 
+            <lb ed="#J" n="9"/>dinem. sed perfectionem, &amp; ii. meta con¬.i 8. 
+            <lb ed="#J" n="10"/>inxta diindium agens naturale non
+            cogre<lb ed="#J" n="11" break="no"/>gat inter diuersa. Nota tamen hic, quod potentiae 
+            <lb ed="#J" n="12"/>ista subiectiua, &amp; obiectiua vna &amp; eadem 
+            <lb ed="#J" n="13"/>est realiter, ficut mihi videtur pro nunc: seo 
+            <lb ed="#J" n="14"/>fortiuntur tales potentiae distinctas
+            deno<lb ed="#J" n="15" break="no"/>minationes in ordine ad diuersa, sicut est 
+            <lb ed="#J" n="16"/>de actione, &amp; passione. vnde pluralitas
+            en<lb ed="#J" n="17" break="no"/>tium est euitanda inquantum est possibile. 
+            <lb ed="#J" n="18"/>Dico, quod vna &amp; eadem forma, vt est in poten 
+            <lb ed="#J" n="19"/>tia materiae, appellatur vt sic esse in poten 
+            <lb ed="#J" n="20"/>tia subiectiua: sed eadem forma vt est in po 
+            <lb ed="#J" n="21"/>tentia actiua agentis, dicitur esse in poten 
+            <lb ed="#J" n="22"/>tia obiectiua, in ordine scilicet ad actum. vnde, 
+            <lb ed="#J" n="23"/>cum secundum Auerro. ix. meta. con. i n omnes formae 
+            <lb ed="#J" n="24"/>sint in potentia in prima materia, &amp; sint i 
+            <lb ed="#J" n="25"/>actu in primo motore, tales sunt in
+            poten<lb ed="#J" n="26" break="no"/>tia subiectiua, &amp; passiua materiae. cum autem 
+            <lb ed="#J" n="27"/>potentia passiua sit principium
+            trasmutan<lb ed="#J" n="28" break="no"/>di ab altero inquantum alterum, videtur, 
+            <lb ed="#J" n="29"/>mihi quod sit vnus respectus realis, qui
+            respi<lb ed="#J" n="30" break="no"/>cit tam subiectum, qui formam, vt in subie 
+            <lb ed="#J" n="31"/>cto inducitur ab agente: sed diuersas forti 
+            <lb ed="#J" n="32"/>tur denominationes, vt ad diuersa extre  
+            <lb ed="#J" n="33"/>ma comparatur: sicut eadem est distantia 
+            <lb ed="#J" n="34"/>inter superius &amp; inferius, inter Thebas &amp;  
+            <lb ed="#J" n="35"/>Athenas, non tamen est idem distare. &amp; ira ego 
+            <lb ed="#J" n="36"/>caueo ponere potentiam obiectiuam real 
+            <lb ed="#J" n="37"/>ter distingui a subiectiua in via Auer. &amp;
+            li<lb ed="#J" n="38" break="no"/>cet multi teneant hoc, tamen niihi videtur in 
+            <lb ed="#J" n="39"/>via eius, &amp; forte etiam in via Arist. illam non  
+            <lb ed="#J" n="40"/>distingui re a subiectiua: quia est principium 
+            <lb ed="#J" n="41"/>per se notum, &amp; ab omnibus
+            Peripatheti<lb ed="#J" n="42" break="no"/>cis concessum, quod quicquid est possibile re 
+            <lb ed="#J" n="43"/>spectu agentis, est possibile respectu patiern 
+            <lb ed="#J" n="44"/>tis, &amp; quicquid est possibile respectu patien 
+            <lb ed="#J" n="45"/>tis, etiam illud possibile est respectu agen 
+            <lb ed="#J" n="46"/>tis. &amp; hoc loquendo de vera potentia. nam 
+            <lb ed="#J" n="47"/>aliter aliquid esset ociosum in natura, &amp; 
+            <lb ed="#J" n="48"/>fiustratorium, contra Philosophum. i. coe 
+            <lb ed="#J" n="49"/>li. 2. Et ideo recte diximus nos euitantes 
+            <lb ed="#J" n="50"/>plui alitatem entium, iuxta consuetudinem 
+            <lb ed="#J" n="51"/>principis nostrae nmilitiae Aristo. inquantu 
+            <lb ed="#J" n="52"/>est possibile, quod respectus ille ad subiectum, 
+            <lb ed="#J" n="53"/>&amp; ad formam vt est ab agente vnus &amp; ide 
+            <lb ed="#J" n="54"/>est re, sed ratione distinguitur. Sed Theolo 
+            <lb ed="#J" n="55"/>gi nostri, qui habent principia opposita 
+            <lb ed="#J" n="56"/>principis Philosophorum, tenent aliquid 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0831.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>esse possibile respectu agentis, quod non fuit,  
+            <lb ed="#J" n="58"/>possibile respectu passi. ideo habent de ne 
+            <lb ed="#J" n="59"/>cessitate ponere instos respectus realiter
+            di<lb ed="#J" n="60" break="no"/>stingui. Vnde mundus ante fui creationem 
+            <lb ed="#J" n="61"/>erat in potentia actiua agentis scilicet Dei, crea 
+            <lb ed="#J" n="62"/>toris, non erat autem in potentia subiectiua 
+            <lb ed="#J" n="63"/>alicuius passi, cum ex nihilo creata sit.
+            Si<lb ed="#J" n="64" break="no"/>militer angeli ante sui creationem erant in 
+            <lb ed="#J" n="65"/>potentia actiua Dei: non autem etant in poten 
+            <lb ed="#J" n="66"/>tia passiua alicuius, cum ex nihilo sint crea 
+            <lb ed="#J" n="67"/>ti. immo materia prima fuit in potentia 
+            <lb ed="#J" n="68"/>ante sui ercationem actiua Dei: in nullius 
+            <lb ed="#J" n="69"/>tamen potentia subiectiua fuit. quia primum 
+            <lb ed="#J" n="70"/>potentiale in nullius est potentia
+            subiecti<lb ed="#J" n="71" break="no"/>ua: aliter esset prinium &amp; non primum. &amp;  
+            <lb ed="#J" n="72"/>ideo Theologus discrepans a Philosophis in 
+            <lb ed="#J" n="73"/>principiis habet etiam difcordare in
+            con<lb ed="#J" n="74" break="no"/>clusionibus, sed velle tenere conclusionem 
+            <lb ed="#J" n="75"/>physitam per principia Theologica distin 
+            <lb ed="#J" n="76"/>cta a Physicis, vel etontra, ridicuium est. Et 
+            <lb ed="#J" n="77"/>ideo <name xml:id="GHcsQQ-d1e746-Nd1e595">subtilissimus Scotus</name>, videns ista vera 
+            <lb ed="#J" n="78"/>esse theologicae, voluit ponere potentiam 
+            <lb ed="#J" n="79"/>obiectiuam distinctam a subiectiua moto 
+            <lb ed="#J" n="80"/>vt mihi videtur per ista fundamenta. de Arist 
+            <lb ed="#J" n="81"/>in hoc tantum curabat, inquantum autho 
+            <lb ed="#J" n="82"/>ritates eius glosare posset, ne veritati
+            theo<lb ed="#J" n="83" break="no"/>logicae obuiarent. Quod autem hoc non possit 
+            <lb ed="#J" n="84"/>ipse tenere in fundamentis Philosophi mihi 
+            <lb ed="#J" n="85"/>videtur hoc posse rationibus conuinci sic. 
+            <lb ed="#J" n="86"/>Nam secundum te Arist. ideo ponit potentiam obie 
+            <lb ed="#J" n="87"/>ctiuam, quia diuisio bona debet euacuare 
+            <lb ed="#J" n="88"/>totam naturam diuisi: sed. si Arist. diuidens 
+            <lb ed="#J" n="89"/>ens per potentiam, &amp; actum intellexisset 
+            <lb ed="#J" n="90"/>potentiam subiectiuam tantum, &amp; non  
+            <lb ed="#J" n="91"/>obiectiuam, tunc sub tali diuisione non
+            con<lb ed="#J" n="92" break="no"/>prehenderetur omne ens, sicut patet de an 
+            <lb ed="#J" n="93"/>gelis, de mundo, et materia prima ante sui 
+            <lb ed="#J" n="94"/>creationeni, quae erant res in potentia non  
+            <lb ed="#J" n="95"/>subiectiua, nec erant res in actu formali, vel 
+            <lb ed="#J" n="96"/>existentiae: ergo oporter dicere potentiam, 
+            <lb ed="#J" n="97"/>quae est differentia entis, esse potentiam obiecti 
+            <lb ed="#J" n="98"/>uam. Amplius. o. meta. tex. con.ii. actus &amp;  
+            <lb ed="#J" n="99"/>potentia sunt eiusdem generis: sed hoc non 
+            <lb ed="#J" n="100"/>potest de potentia subiectiua verificari, quod a 
+            <lb ed="#J" n="101"/>substantia potest esse potentia subiectiua 
+            <lb ed="#J" n="102"/>quantitatis, &amp; patet, quod ista sunt diuersorum 
+            <lb ed="#J" n="103"/>generum. Trahitur illud sic per Auerro. 8. 
+            <lb ed="#J" n="104"/>meta. con. is. agens extrahens aliquid de po 
+            <lb ed="#J" n="105"/>tentia ad actum non largitur muititudinem, 
+            <lb ed="#J" n="106"/>sed perfectionem. &amp; hoc idenm habet. ia met. 
+            <lb ed="#J" n="107"/>con.8. vbi habet quod agens apud Aristo. non  
+            <lb ed="#J" n="108"/>congregat inter diuersa. &amp; hoc idem habet 
+            <lb ed="#J" n="109"/>s. phy. conm. 8. quod potentia &amp; actus sunt eiusdem 
+            <lb ed="#J" n="110"/>generis. &amp; patet istas authoritates non
+            pos<lb ed="#J" n="111" break="no"/>se saluari de potentia subiectiua: sed de ne 
+            <lb ed="#J" n="112"/>cessitate sunt verae de potentia obiectiua 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0832.xml-->
+            <pb ed="#J" n="416-v"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>&amp; in tantum processerunt cum huiusmodi 
+            <lb ed="#J" n="2"/>authoritatibus plerique non modicae authori 
+            <lb ed="#J" n="3"/>tatis viri, vt de intentione Auer. substinere 
+            <lb ed="#J" n="4"/>ausi sint potentiam obiectiuam distingu 
+            <lb ed="#J" n="5"/>ab actiua, &amp; a passiua potentiis, nec non a 
+            <lb ed="#J" n="6"/>logica potentia, quae nil aliud est quia respectus 
+            <lb ed="#J" n="7"/>ra ionis ex non repugnantia terminorum 
+            <lb ed="#J" n="8"/>causatus. &amp; ista per vitam meam non post 
+            <lb ed="#J" n="9"/>sunt sustineri de mente Philosophiorum. Et 
+            <lb ed="#J" n="10"/>vt aegritudini eorum succurramus, ostenda 
+            <lb ed="#J" n="11"/>mus eis causam erroris eorum. &amp; est, quia po 
+            <lb ed="#J" n="12"/>nentes potentiam obiectiuam, coacti sunt ad il 
+            <lb ed="#J" n="13"/>lud ex principio repugnante Philo sophiae 
+            <lb ed="#J" n="14"/>&amp; est quod aliquid est in potentie respectu agen 
+            <lb ed="#J" n="15"/>tis eantum, quod non est in potentia passi. &amp;  
+            <lb ed="#J" n="16"/>hoc non conceditur a Philosophis in rebus no 
+            <lb ed="#J" n="17"/>nis. inmmo ipsi dicunt omne, quod est in
+            poten<lb ed="#J" n="18" break="no"/>tia actiua agentis, est in potentia passiua al 
+            <lb ed="#J" n="19"/>cuius subiecti, iuxta illud Com. allegatum 
+            <lb ed="#J" n="20"/>supra, omnes formae sunt in potentia passiua 
+            <lb ed="#J" n="21"/>materiae, &amp; sunt in potentia actiua priis 
+            <lb ed="#J" n="22"/>motoris. paret modo quod secundum Theologos
+            ali<lb ed="#J" n="23" break="no"/>qua forma ante sui productionem est
+            pos<lb ed="#J" n="24" break="no"/>sibilis possibilitate, qua respicit agens tan 
+            <lb ed="#J" n="25"/>tum &amp; ideo istam potentiam a qua possib 
+            <lb ed="#J" n="26"/>lis denonminatur, nuncupauere obiectiuam. 
+            <lb ed="#J" n="27"/>sed Philosophus dic ens oppositum huius 
+            <lb ed="#J" n="28"/>oportet negare secundum ipsum talem
+            po<lb ed="#J" n="29" break="no"/>tentiam distingui a potentia pa ssina, quia 
+            <lb ed="#J" n="30"/>per potentiam pafsiuam forma est
+            possibi<lb ed="#J" n="31" break="no"/>lis ex parte subiecti cum respectu ad agens, 
+            <lb ed="#J" n="32"/>quia. 8. meta. tex. con. a. potentia passiua est 
+            <lb ed="#J" n="33"/>principium transmutandi ab altero inquam 
+            <lb ed="#J" n="34"/>tum alterum. potentia enim passiua definitur 
+            <lb ed="#J" n="35"/>per actiuam, &amp; econtra. vnde. a. phy. A ni. &amp;. v. 
+            <lb ed="#J" n="36"/>phy. Vo. &amp; in plerisque locis in libro
+            destru<lb ed="#J" n="37" break="no"/>ctionum contra Algaxelem, quicquid est pos 
+            <lb ed="#J" n="38"/>sibile per principium passiuum
+            intrinsecun<lb ed="#J" n="39" break="no"/>est possibile per principium extrinsecun acti 
+            <lb ed="#J" n="40"/>uum. Et quod ens non diuidatur per potentiam obit 
+            <lb ed="#J" n="41"/>ctiuam, sed per potentiam subiectiuam oster 
+            <lb ed="#J" n="42"/>ditur sic. Philosophus. ia. mera. tex. con. 8. vc 
+            <lb ed="#J" n="43"/>les declarare quod sit esse materiae diuidit ens 
+            <lb ed="#J" n="44"/>per potentiam &amp; actum, &amp; ibi declarat
+            mate<lb ed="#J" n="45" break="no"/>riam contineri sub potentia, &amp; non sub actu 
+            <lb ed="#J" n="46"/>quia est illud, ex quo omnia fiunt per transmu 
+            <lb ed="#J" n="47"/>tationem. manifestum est autem potentiam, ex qua 
+            <lb ed="#J" n="48"/>al quid transmutatur, esse potentiam. subiecti 
+            <lb ed="#J" n="49"/>uam non obiectiuam: quare entis diuisio per 
+            <lb ed="#J" n="50"/>porentiam &amp; actum non est secundum Philosophios 
+            <lb ed="#J" n="51"/>per po: entiam obiestiuam, quia tunc argumen 
+            <lb ed="#J" n="52"/>tur: Philosophi adductum esset in qua 
+            <lb ed="#J" n="53"/>tuor terminis. Amplius Commenta. in t 
+            <lb ed="#J" n="54"/>meta. con: e. declarans intentionem
+            Philo<lb ed="#J" n="55" break="no"/>giphi. inquit quod ibi intendit indurere alium 
+            <lb ed="#J" n="56"/>modum, quo principia omnium praedicamen¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0832.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>torum sunt eadem, &amp; est pro quanto actus, et 
+            <lb ed="#J" n="58"/>potentia sunt in omni genere, &amp; quod actus
+            ha<lb ed="#J" n="59" break="no"/>bet reduci ad formam, &amp; potentia ad
+            ma<lb ed="#J" n="60" break="no"/>teriam, &amp; quod potentia, &amp; actus propinqui 
+            <lb ed="#J" n="61"/>sunt distincti in distinctis nraedicami entis,. 
+            <lb ed="#J" n="62"/>vult ergo potentiam subiectiuam, &amp; actum 
+            <lb ed="#J" n="63"/>esse principia praedicamentorum omnium, &amp;  
+            <lb ed="#J" n="64"/>non obfectiuam, cum dicat potentiam
+            re<lb ed="#J" n="65" break="no"/>duci ad materiam, &amp; actum ad formam. Am 
+            <lb ed="#J" n="66"/>plius ipsse inm. 8. meta. con. A. vbi declarans, 
+            <lb ed="#J" n="67"/>quomodo actus, &amp; potentia sunt in omni
+            prae<lb ed="#J" n="68" break="no"/>dicamento, exponens exemplum Philosophi 
+            <lb ed="#J" n="69"/>in praedicamento substantiae dae forma niet 
+            <lb ed="#J" n="70"/>curij, dicit, quod in lapide est eadem forma
+            mer<lb ed="#J" n="71" break="no"/>curij, &amp; in actu, &amp; in potentia, &amp; declarans 
+            <lb ed="#J" n="72"/>quomodo sit in potentia dicit, quod est in
+            potentia<lb ed="#J" n="73" break="no"/>quia habet naturam recipiendi eam: actu 
+            <lb ed="#J" n="74"/>vero habet eam quando actu reciplicite earm. 
+            <lb ed="#J" n="75"/>vbi patet de intentione eius porentiam, in quae 
+            <lb ed="#J" n="76"/>mercurius est, subiectuam esse, non obiectu 
+            <lb ed="#J" n="77"/>uam. Nec valet dicere obiectiuam debere po 
+            <lb ed="#J" n="78"/>ni propter respectum ad agens: quia iste
+            re<lb ed="#J" n="79" break="no"/>spectus importatur per subiectiuam, cum 
+            <lb ed="#J" n="80"/>sit principium tran mutandeab altero inquam 
+            <lb ed="#J" n="81"/>tum alterum, &amp; ita non oportet entia sine
+            ne<lb ed="#J" n="82" break="no"/>cessita re muleiplicare. Et ideo, sicut mihi vi 
+            <lb ed="#J" n="83"/>detur, saltio semper meliori iudicio, de
+            in<lb ed="#J" n="84" break="no"/>tentione Philosophi potentia ista obiectiua 
+            <lb ed="#J" n="85"/>non est distincta re a potentia passitia. quia 
+            <lb ed="#J" n="86"/>ista potentia obiectiua, si ponitur, non est pre 
+            <lb ed="#J" n="87"/>pter aliud, nisi propt er respectum, quem
+            im<lb ed="#J" n="88" break="no"/>portat forma ad ipsum agens: sed, cum iste 
+            <lb ed="#J" n="89"/>respectus sufficienter importetur per
+            poten<lb ed="#J" n="90" break="no"/>tiam subiectiuam, seu passiuam, sicut clare 
+            <lb ed="#J" n="91"/>patet ex definitione potentiae passiuae
+            posi<lb ed="#J" n="92" break="no"/>tae in 8. meta. &amp; in. 8. propter hoc dicimus 
+            <lb ed="#J" n="93"/>de intentione Philosophi non dari poten 
+            <lb ed="#J" n="94"/>tiam obiectiuam, tanquam tem distincue 
+            <lb ed="#J" n="95"/>a subiectiua. Et dicinius: quod diuisio entis per 
+            <lb ed="#J" n="96"/>a ctum &amp; potentiam est per potentiam
+            subie<lb ed="#J" n="97" break="no"/>ctiuam, &amp; sic dicimus agens extrahens ali 
+            <lb ed="#J" n="98"/>quid de potentia subiectiua ad actum non  
+            <lb ed="#J" n="99"/>largiti multitudinem, sed perfectionem: quia 
+            <lb ed="#J" n="100"/>vna &amp; eadem est res, quae est in potentiae 
+            <lb ed="#J" n="101"/>subiectiua materiae, &amp; in potentia actiua 
+            <lb ed="#J" n="102"/>agentis, cum re, quactu producta est. &amp;  
+            <lb ed="#J" n="103"/>sic agens apud Aristo, non congi egat inter 
+            <lb ed="#J" n="104"/>diuersa. Et sic dicatur consequenter quod
+            po<lb ed="#J" n="105" break="no"/>tentia subiectiua, &amp; actus sunt eiusdem ge 
+            <lb ed="#J" n="106"/>neris loquendo de potentia subiectina
+            pro<lb ed="#J" n="107" break="no"/>xima. nam vt dicit Philosophus, &amp; Commen 
+            <lb ed="#J" n="108"/>ri meta tex. eo. ax. licet principia omnium 
+            <lb ed="#J" n="109"/>decemn praedicamentorum remota possint esse 
+            <lb ed="#J" n="110"/>eadem, quia principia praedicamenti substan 
+            <lb ed="#J" n="111"/>tiae sunt princ pia oum
+            praedicamentorum<lb ed="#J" n="112" break="no"/>tamen principia prxima vniuscuiusque sunt. sibi 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0833.xml-->
+            <pb ed="#J" n="416-r"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>propria. &amp; sic patet quomodo actus &amp; potentiae 
+            <lb ed="#J" n="2"/>cireuunt omne geneus, &amp; quomodo sunt eiusd est 
+            <lb ed="#J" n="3"/>gener is, ista est mens Philosophi, &amp; Auei 
+            <lb ed="#J" n="4"/>ini. met. 28. Quod autem dicitur de angelis, &amp; de 
+            <lb ed="#J" n="5"/>materia, &amp; corporibus coelestibus, quia non  
+            <lb ed="#J" n="6"/>sunt in potentia subiectiua, sed obiectiua, 
+            <lb ed="#J" n="7"/>paret, quod hoc nihil est contra Philosophum 
+            <lb ed="#J" n="8"/>&amp; Commen sed apud Theologum bene il 
+            <lb ed="#J" n="9"/>lud haberet vim. Cogita ergo &amp; consydera, 
+            <lb ed="#J" n="10"/>quod ex diuersis principiis diuersae sequuntur, 
+            <lb ed="#J" n="11"/>conclusiones. Et ideo Auer. plerumque
+            damna<lb ed="#J" n="12" break="no"/>uit Auie. in hoc, appellans ipsum medium 
+            <lb ed="#J" n="13"/>inter Peripateticos, &amp; loquentes,
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e8329">
+          <head xml:id="GHcsQQ-d1e746-Hd1e967">Contradictio 4</head>
+          <p xml:id="GHcsQQ-d1e746-d1e970">
+            <lb ed="#J" n="14"/>Quarta contradi. est ibidem. Dicitur quod in al 
+            <lb ed="#J" n="15"/>solutis a motu reperitur melius. Oppositum 
+            <lb ed="#J" n="16"/>patet. i. meta. tex. con. i. vbi dicitur in immobili 
+            <lb ed="#J" n="17"/>bus non est ratio finis, neque bonis. Soluitur, 
+            <lb ed="#J" n="18"/>immobilia duplicia, quaedam secundum esse, &amp;
+            de<lb ed="#J" n="19" break="no"/>finitionem, sicut sunt substantiae separatae. 
+            <lb ed="#J" n="20"/>&amp; quaedam sola definitione. tunc dico, quod in 
+            <lb ed="#J" n="21"/>immobilibus sola definitione, qualia sunt 
+            <lb ed="#J" n="22"/>entia mathematica, non est in eis ratio
+            bo<lb ed="#J" n="23" break="no"/>ni, neque finis, nuia ralia secundum esse separata non 
+            <lb ed="#J" n="24"/>subsistunt, quia, si subsisterent, esset in eis 
+            <lb ed="#J" n="25"/>bonum. scilicet ipsum esse ipsorum. sed talia
+            so<lb ed="#J" n="26" break="no"/>le ratione a motu separata sunt, &amp; sic
+            ab<lb ed="#J" n="27" break="no"/>strahunt a ratione finis, qui habet rationem, 
+            <lb ed="#J" n="28"/>mouentis. Nec est inconueniens quod in
+            ali<lb ed="#J" n="29" break="no"/>quo ente secundum rationem non sit bonum, ve 
+            <lb ed="#J" n="30"/>fatio boni, cum ratio entis sit prior quam  
+            <lb ed="#J" n="31"/>ratio boni. loquitur igitur Commentator 
+            <lb ed="#J" n="32"/>hic de rebus separatis secundum esse &amp; de 
+            <lb ed="#J" n="33"/>finitionem a motu, quia in talibus bene po 
+            <lb ed="#J" n="34"/>test esse ratio boni, immo summi boni.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

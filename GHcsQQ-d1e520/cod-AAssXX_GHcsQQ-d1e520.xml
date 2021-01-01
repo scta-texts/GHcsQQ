@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 7</title>
+        <author ref="#per-sdv3av">Marcantonio Zimara</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 7</title>
+          <date when="2021-01-01">January 01, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="J" n="cod-AAssXX">Venice 1562</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#J" n="411-r"/>
+        <cb ed="#J" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHcsQQ-d1e520">
+        <head xml:id="GHcsQQ-d1e520-Hd1e107">Liber 7</head>
+        <p xml:id="GHcsQQ-d1e520-d1e110">
+          <lb ed="#J" n="94"/>S EVEHA NES 
+          <lb ed="#J" n="95"/>Contradictionum in dictis 
+          <lb ed="#J" n="96"/>Arist. &amp; Auerrois, 
+          <lb ed="#J" n="97"/>Super Septimo Metaphysicorum.
+        </p>
+        <div xml:id="GHcsQQ-d1e5219">
+          <head xml:id="GHcsQQ-d1e520-Hd1e123">Contradictio 1</head>
+          <p xml:id="GHcsQQ-d1e520-d1e126">
+            <lb ed="#J" n="98"/>PRima contra. est in com. c. Aueri 
+            <lb ed="#J" n="99"/>habet quod omnes Antiqui de quibus 
+            <lb ed="#J" n="100"/>meminit Philosophus ibi, non 
+            <lb ed="#J" n="101"/>perceperunt nisi materiam ex
+            qua<lb ed="#J" n="102" break="no"/>tuor causis. Sed huis oppositum 
+            <lb ed="#J" n="103"/>habet ex hoc, quod dicam. nam Anax agoras
+            cogno<lb ed="#J" n="104" break="no"/>uit intelsecundum abstractum. e. de anima. So. &amp;. t.
+            phy<lb ed="#J" n="105" break="no"/>in o. &amp;. i. meta. te. con id i. qui secundum ipsum erat
+            se<lb ed="#J" n="106" break="no"/>gregans omnia, quae in suo chaos commixta erant. 
+            <lb ed="#J" n="107"/>Similiter instantia est de Empedocle. ipse enim  
+            <lb ed="#J" n="108"/>posuit vltra quatuor elementa, quae secundum
+            ip<lb ed="#J" n="109" break="no"/>sum concurrebant in genere causae materialis, lit 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0822.xml-->
+            <pb ed="#J" n="411-v"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>&amp; amleitiam, quae concurrebant in genere 
+            <lb ed="#J" n="2"/>causae efficientis, sicut patet. i. phy.te. com.¬i. 
+            <lb ed="#J" n="3"/>Soluitur propositio ista habet veritatem de om 
+            <lb ed="#J" n="4"/>nibus aliis Antiquis longe ante Arist. existen 
+            <lb ed="#J" n="5"/>tibus, praeterquam de Anaxagora, &amp;
+            Empe<lb ed="#J" n="6" break="no"/>dlocle: sicut scribit Commen in. i. physicae au 
+            <lb ed="#J" n="7"/>scultationis com. V8. Dixi autem notabiliter de 
+            <lb ed="#J" n="8"/>Antiquis longe ante Arist. existentibus, propt 
+            <lb ed="#J" n="9"/>Socrat est, &amp; Platonem. nam tempore istorum 
+            <lb ed="#J" n="10"/>fuit cognita ratio finis, sicut dicit Comen  
+            <lb ed="#J" n="11"/>meta. conio, quia isti instituerunt res
+            publi<lb ed="#J" n="12" break="no"/>cas propter bonum. similiter Plato ideas
+            po<lb ed="#J" n="13" break="no"/>suit, quae in genere causae efficientis concurrunt.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5288">
+          <head xml:id="GHcsQQ-d1e520-Hd1e192">Contradictio 2</head>
+          <p xml:id="GHcsQQ-d1e520-d1e195">
+            <lb ed="#J" n="14"/>
+            <pc type="indent"/>Secunda contradi. est in tex. 8. Aristo. &amp;  
+            <lb ed="#J" n="15"/>Commen dicunt quod forma videtur esse ma 
+            <lb ed="#J" n="16"/>gis separabilis, quae materia. Sed huius
+            opposi<lb ed="#J" n="17" break="no"/>tum sribit Alexam. in paraphrasi de anima 
+            <lb ed="#J" n="18"/>cap. i. vbi habetur quod fieri nullo pacto potest, vt 
+            <lb ed="#J" n="19"/>materia per se subsistat. nam lie et materia 
+            <lb ed="#J" n="20"/>ratione separetur a forma, non tamen secundum esse, &amp; sub 
+            <lb ed="#J" n="21"/>dit quod non solum autem eiusmodi materia, verum 
+            <lb ed="#J" n="22"/>ipsa quoque materiae ingenita forma nullo 
+            <lb ed="#J" n="23"/>pacto potest per seipsa subsistere. Quinimo fo 
+            <lb ed="#J" n="24"/>ma magis hoc pati videtur, quam ipsa materia. 
+            <lb ed="#J" n="25"/>quanquam enim materia per se subsistere sine 
+            <lb ed="#J" n="26"/>forma non possit, tamen in compositis corpori 
+            <lb ed="#J" n="27"/>bus continenter excipitur, non quod simpliciter ma 
+            <lb ed="#J" n="28"/>teria sit, sed quod alicuius materia, cum sit, per se 
+            <lb ed="#J" n="29"/>subsistere videtur Formarum autem quae in mate 
+            <lb ed="#J" n="30"/>ria fiunt, nulla vnquam per se potest subsistere 
+            <lb ed="#J" n="31"/>siue simplicis corporis, siue compositi con 
+            <lb ed="#J" n="32"/>poris esse d eprehendatur. vnde videtur esse 
+            <lb ed="#J" n="33"/>aperta contradictio inter Alexandrum, &amp;  
+            <lb ed="#J" n="34"/>rantionem Alexandri, &amp; dicta Arist. &amp; Com 
+            <lb ed="#J" n="35"/>men Nisi esset quod (ommen in com refert illam 
+            <lb ed="#J" n="36"/>separabilitatem, quo ad intellectum, quia 
+            <lb ed="#J" n="37"/>intellectus formae videtur magis separatus, 
+            <lb ed="#J" n="38"/>intellectus materiae, sicut est de potentia &amp; 
+            <lb ed="#J" n="39"/>actu, vt supra dictum est. sed Alexam. loquitur, 
+            <lb ed="#J" n="40"/>de separatione quo ad subsistentiam in
+            re<lb ed="#J" n="41" break="no"/>rum natura. Sed tunc contra Alexan. emen 
+            <lb ed="#J" n="42"/>git difficultas, quia materia est ens
+            potesta<lb ed="#J" n="43" break="no"/>te, &amp; forma, &amp; compositum sunt entia actus 
+            <lb ed="#J" n="44"/>subsistentia magis tribuitur actui, quae potesta 
+            <lb ed="#J" n="45"/>ti. &amp; hoc videtur dicere rex. Aristo. Dicit enim At 
+            <lb ed="#J" n="46"/>impossibile. etenim separabile, &amp; hoc aliquid 
+            <lb ed="#J" n="47"/>ine sse videtur maximae substantiae. propter 
+            <lb ed="#J" n="48"/>quod forma, &amp; quod ex ambobus substan 
+            <lb ed="#J" n="49"/>tia videtur esse magis, quae materia.
+            certissi<lb ed="#J" n="50" break="no"/>mum est autem quod hoc aliquid apud Arist.
+            di<lb ed="#J" n="51" break="no"/>cit rem per se. subsistentem. Dic, quod rei subsi 
+            <lb ed="#J" n="52"/>stentia dupliciter concipi potest. Vno modo, quo 
+            <lb ed="#J" n="53"/>ad actu consistere. &amp; sic subsistentia magis 
+            <lb ed="#J" n="54"/>formae, &amp; composito attribuitur, quae mate 
+            <lb ed="#J" n="55"/>riae. &amp; isto modo Aris. ibi sumpsit. Alio mo 
+            <lb ed="#J" n="56"/>do pro permanentia rei sinc corruptione in 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0822.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>sua substantia, &amp; sic magis subfistit
+            mateu<lb ed="#J" n="58" break="no"/>ria, quae est ingenerabilis, &amp; incorruptibilis 
+            <lb ed="#J" n="59"/>qua forma, aut conipositum. &amp; sic intellexit 
+            <lb ed="#J" n="60"/>Alexander.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5404">
+          <head xml:id="GHcsQQ-d1e520-Hd1e309">Contradictio 3</head>
+          <p xml:id="GHcsQQ-d1e520-d1e312">
+            <lb ed="#J" n="61"/>Tertia contradi. est in com. io. Habet singu 
+            <lb ed="#J" n="62"/>laria notiora esse vniversalibus. Huius oppositum 
+            <lb ed="#J" n="63"/>habet. i. phy. tex. com. 8. &amp; con.s. &amp;. ..A. &amp; alibi 
+            <lb ed="#J" n="64"/>infinities. Soluitur. singulare, de quo loquitur, 
+            <lb ed="#J" n="65"/>hic est notius vniversalin causando, iuxta illuo 
+            <lb ed="#J" n="66"/>Philosophi in prooemio meta vniversalia sunt ma 
+            <lb ed="#J" n="67"/>xime difficilia ad cognoscendum. Aut loquitur 
+            <lb ed="#J" n="68"/>hic quantum ad cognitionem complexam. 
+            <lb ed="#J" n="69"/>singulare enim &amp; si de eo scientia non sit, tamen est 
+            <lb ed="#J" n="70"/>principium scientiae, pro quanto ex singula 
+            <lb ed="#J" n="71"/>ribus per inductionem sumitur vniversale. quod est 
+            <lb ed="#J" n="72"/>principium artis, &amp; scientiae. Aut loquitur de 
+            <lb ed="#J" n="73"/>confusa cognitione singularrum, &amp; de
+            di<lb ed="#J" n="74" break="no"/>stincta vniversalium. Sed istud vltimum non placet 
+            <lb ed="#J" n="75"/>inultum, quia tunc abusiua satis esset ista 
+            <lb ed="#J" n="76"/>comparatio, sicut intuenti patere potest. Aut 
+            <lb ed="#J" n="77"/>aliter. singularia sunt notiora nobis in
+            co<lb ed="#J" n="78" break="no"/>gnitione in genere sumpta, vt est communis 
+            <lb ed="#J" n="79"/>ad sensitiuam &amp; intellectiuam. nam prima 
+            <lb ed="#J" n="80"/>nostra cognitio naturalis sensitiua est
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5457">
+          <head xml:id="GHcsQQ-d1e520-Hd1e362">Contradictio 4</head>
+          <p xml:id="GHcsQQ-d1e520-d1e365">
+            <lb ed="#J" n="81"/>Quarta contradi. est in eomen. ix. Scribit  
+            <lb ed="#J" n="82"/>Commen quod substantiae compositae haben 
+            <lb ed="#J" n="83"/>definitionem. Huius tamen oppositum expresse 
+            <lb ed="#J" n="84"/>habet infra in com.¬ v. Solutio est ista, quando
+            in<lb ed="#J" n="85" break="no"/>sra dicit compositorum non esse
+            definitio<lb ed="#J" n="86" break="no"/>nes, per composita intellexit singularia, &amp;  
+            <lb ed="#J" n="87"/>de talibus non est scientia, neque per
+            defini<lb ed="#J" n="88" break="no"/>tionem, neque per demostrantionem. v. huius 
+            <lb ed="#J" n="89"/>tex communisi. &amp;. 8i. sed solum sensus, hic vero su 
+            <lb ed="#J" n="90"/>mit composita vniversalia. &amp; talium. bene
+            defini<lb ed="#J" n="91" break="no"/>tiones esse possunt. similiter talia subiecta. 
+            <lb ed="#J" n="92"/>demonstrationum sunt. &amp; hoc est, quod dixit Con. i. mo 
+            <lb ed="#J" n="93"/>ta. con. a v. sensibilia habent duos modos
+            compre<lb ed="#J" n="94" break="no"/>hensionis, vnum, qui non est scientia eorum, sed  
+            <lb ed="#J" n="95"/>imago, vt sunt singulatia. &amp; modum, qui est 
+            <lb ed="#J" n="96"/>scientia eorum, &amp; sunt intellecta vniuersalia.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5500">
+          <head xml:id="GHcsQQ-d1e520-Hd1e405">Contradictio 5</head>
+          <p xml:id="GHcsQQ-d1e520-d1e408">
+            <lb ed="#J" n="97"/>Quinta contradi. est in eodem com.a. Ha 
+            <lb ed="#J" n="98"/>bet Commen, quod definitum est vnum actu, &amp; 
+            <lb ed="#J" n="99"/>duo potentia. Sed huius oppositum habet 
+            <lb ed="#J" n="100"/>infra. tex. conm. Ai. vbi habet quod geneus est in
+            po<lb ed="#J" n="101" break="no"/>tentia, &amp; differentia est actus, &amp; ita definitum non 
+            <lb ed="#J" n="102"/>est duo in potentia, sed vnum in potent: i.  
+            <lb ed="#J" n="103"/>&amp; aliud in actu. Soluitur. definiium est viium 
+            <lb ed="#J" n="104"/>in actu, quantum ad conceptum confusum, 
+            <lb ed="#J" n="105"/>sed quantum ad conceptum distinctum est  
+            <lb ed="#J" n="106"/>duo in potentia, quia potest resolui in dluos 
+            <lb ed="#J" n="107"/>conceptus: qui conceptus tamen ita se habent. 
+            <lb ed="#J" n="108"/>quod vnus est potentialis ad alterum, sicut
+            con<lb ed="#J" n="109" break="no"/>ceptus generis ad conceptum differentiae: &amp; ita se 
+            <lb ed="#J" n="110"/>datur contradictio clarifsime, sicut vides.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5539">
+          <head xml:id="GHcsQQ-d1e520-Hd1e444">Contradictio 6</head>
+          <p xml:id="GHcsQQ-d1e520-d1e447">
+            <lb ed="#J" n="111"/>Sexta contradi. est in com. ri. Habet Conm. 
+            <lb ed="#J" n="112"/>quod definitio non est omnis sermo significans 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0823.xml-->
+            <pb ed="#J" n="411-r"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>illud, quod significat nomen Huius tamen
+            op<lb ed="#J" n="2" break="no"/>positum patet A8. meta. tex. c. . 8. vbi habetur, 
+            <lb ed="#J" n="3"/>quod ratio, quam significat nomen est definitio, 
+            <lb ed="#J" n="4"/>Soluitur in habentibus quid rei, ratio quid 
+            <lb ed="#J" n="5"/>rei, &amp; ratio quid nominis coincidunt, non  
+            <lb ed="#J" n="6"/>tamen absolute ratio quid nominis quaelibet est 
+            <lb ed="#J" n="7"/>definitio quid rei. multa enim habent quid non 
+            <lb ed="#J" n="8"/>minis, quae tan quid rei carent.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5576">
+          <head xml:id="GHcsQQ-d1e520-Hd1e481">Contradictio 7</head>
+          <p xml:id="GHcsQQ-d1e520-d1e484">
+            <lb ed="#J" n="9"/>Septima contra. est in c. i.a. Hent Com, quod pri 
+            <lb ed="#J" n="10"/>uatio non est non ens simpliciter. Sed huis oppo 
+            <lb ed="#J" n="11"/>situm patet. i. phy. v 8. com. Hespondetur. pri 
+            <lb ed="#J" n="12"/>uatio formaliter est non ens, sed
+            connotati<lb ed="#J" n="13" break="no"/>ue aliquid entitatis habet. sic loquitur hic 
+            <lb ed="#J" n="14"/>ratione connotati, sed in aliis locis loquitur, 
+            <lb ed="#J" n="15"/>reipestu suae primae, &amp; formalis
+            imagina<lb ed="#J" n="16" break="no"/>tionis. vide com. ii. duodecimi meta. &amp;
+            con<lb ed="#J" n="17" break="no"/>So. primi physi.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5604">
+          <head xml:id="GHcsQQ-d1e520-Hd1e509">Contradictio 8</head>
+          <p xml:id="GHcsQQ-d1e520-d1e512">
+            <lb ed="#J" n="18"/>Octaua contradi. est in commen. is. Habet 
+            <lb ed="#J" n="19"/>Commen, quod accidentia per accidens non ha 
+            <lb ed="#J" n="20"/>bent definitionem omnino. Huius tamen oppo 
+            <lb ed="#J" n="21"/>situm patet supra con. ia. &amp;. is. Soluitur.
+            in<lb ed="#J" n="22" break="no"/>telligitur dictum eius hic isto modo, accidentia 
+            <lb ed="#J" n="23"/>per accidens non habent definitionem om 
+            <lb ed="#J" n="24"/>nino, quae videlicet habeat habitudinem per 
+            <lb ed="#J" n="25"/>se, &amp; essentia lem. &amp; hoc manifestant verba 
+            <lb ed="#J" n="26"/>eius sequentia, quia reddens causam sui di 
+            <lb ed="#J" n="27"/>cti, propter quid accidentia ista non haben 
+            <lb ed="#J" n="28"/>omino definitionem, inquit, definitio enim 
+            <lb ed="#J" n="29"/>significat res terminatas. Aut aliter solul 
+            <lb ed="#J" n="30"/>pot. accidentia per accidens duplici subie 
+            <lb ed="#J" n="31"/>cto comparari possunt, essentiali, ad quod 
+            <lb ed="#J" n="32"/>primo consequuntur, &amp; accidentali.
+            cui<lb ed="#J" n="33" break="no"/>accidens attribuuntur, &amp; tunc diceretur, quo 
+            <lb ed="#J" n="34"/>talia accidentia in comparatione ad subie 
+            <lb ed="#J" n="35"/>cta, quibus per accidens attribuuntur, non 
+            <lb ed="#J" n="36"/>habent definitionem, sed bene in compara 
+            <lb ed="#J" n="37"/>tione ad prima subiecta definiri possunt. &amp;  
+            <lb ed="#J" n="38"/>istam solutionem etiam latenter innuit
+            Com<lb ed="#J" n="39" break="no"/>mentator in hoc loco, sicut mihi videtur.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5660">
+          <head xml:id="GHcsQQ-d1e520-Hd1e565">Contradictio 9</head>
+          <p xml:id="GHcsQQ-d1e520-d1e568">
+            <lb ed="#J" n="40"/>Nona contradi. est in com.ii. Dicit dissolum 
+            <lb ed="#J" n="41"/>tionem fieti a posteriori ad prius. Huius te 
+            <lb ed="#J" n="42"/>men oppositum patet. i. meta. commen ii 
+            <lb ed="#J" n="43"/>Vide ibi, quia soluta fuit.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5678">
+          <head xml:id="GHcsQQ-d1e520-Hd1e583">Contradictio 10</head>
+          <p xml:id="GHcsQQ-d1e520-d1e586">
+            <lb ed="#J" n="44"/>Decima contradi. est ibidem. Habetur quod 
+            <lb ed="#J" n="45"/>materia de nominatiue praedicatur de eo 
+            <lb ed="#J" n="46"/>cuius est materia. Oppositum patet. a. de ge 
+            <lb ed="#J" n="47"/>neratione. tex. commen. 8. contra Platonem 
+            <lb ed="#J" n="48"/>vide ibi, quia soluta fuit.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5697">
+          <head xml:id="GHcsQQ-d1e520-Hd1e602">Contradictio 11</head>
+          <p xml:id="GHcsQQ-d1e520-d1e605">
+            <lb ed="#J" n="49"/>Vnecima contradi. est in as. conm. Scribit 
+            <lb ed="#J" n="50"/>Conimen quod generatio magis attribuitur pri 
+            <lb ed="#J" n="51"/>uationi, qua subiecto. Huius tamen oppositum pa 
+            <lb ed="#J" n="52"/>tet. i. pliy. comn. do. vbi habet, quod illud, quod ve 
+            <lb ed="#J" n="53"/>re generatur, subiectum est. Soluitur. subi 
+            <lb ed="#J" n="54"/>ctu motus vere moneri dicitur, quia motus est 
+            <lb ed="#J" n="55"/>moto, non in motore. &amp; ideo subiectum gene 
+            <lb ed="#J" n="56"/>rationis verissime generari dicitur vt Commenta, 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0823.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>dicit. i. phur com. So. sed in talibus non
+            sole<lb ed="#J" n="58" break="no"/>mus nisi rarissime loqui, cum istis
+            praeposi<lb ed="#J" n="59" break="no"/>tionibus, ex, vel ab, in subiectis. vt dicamtis 
+            <lb ed="#J" n="60"/>ex homine fit musicus, vel ab homine fit muisi 
+            <lb ed="#J" n="61"/>cus. sed talibus modis loquendi vtimur
+            inm<lb ed="#J" n="62" break="no"/>priuationibus. solemus enim dicere ex imniusi 
+            <lb ed="#J" n="63"/>co musicum fieri. &amp; hoc maxime proprium 
+            <lb ed="#J" n="64"/>est idiomati Graeeorum, sicut sribit Commeni. i. 
+            <lb ed="#J" n="65"/>phy. &amp; i. con. &amp; ideo dixit hic generationem ma 
+            <lb ed="#J" n="66"/>gis attribui priuationi, quae subiecto, ad modum 
+            <lb ed="#J" n="67"/>declaratum. &amp; de hoc clare vide. com. Si. primi 
+            <lb ed="#J" n="68"/>phus. &amp; inuenies illud, quod dicimus.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e5753">
+          <head xml:id="GHcsQQ-d1e520-Hd1e658">Contradictio 12</head>
+          <p xml:id="GHcsQQ-d1e520-d1e661">
+            <lb ed="#J" n="69"/>Duodecima contradi. est in tex. 28.
+            Seri<lb ed="#J" n="70" break="no"/>bit Philosophus, quod diuersa propter materiam 
+            <lb ed="#J" n="71"/>vt Socrates, &amp; Callias, sunt eadem in
+            forma<lb ed="#J" n="72" break="no"/>&amp; Commen in com. scribit quod multitudo indi 
+            <lb ed="#J" n="73"/>uiduorum in eadem specie proueniens ab vno 
+            <lb ed="#J" n="74"/>generante est propter multitudinem mate 
+            <lb ed="#J" n="75"/>rietum, in quas agit, ex quo elicitur, quod
+            ma<lb ed="#J" n="76" break="no"/>teria est principium distinctionis indiuidud 
+            <lb ed="#J" n="77"/>rum in eadem specie, &amp; non forma, &amp; per 
+            <lb ed="#J" n="78"/>consequens indiuiduum principalius depen 
+            <lb ed="#J" n="79"/>det in esse a materia, quae a forma, quia eadem 
+            <lb ed="#J" n="80"/>sunt principia essendi, &amp; distinguendi. Sed  
+            <lb ed="#J" n="81"/>huius oppositum habetur ab Auer. in qua pluri 
+            <lb ed="#J" n="82"/>bus locis, vt. i. de anima con. So. vbi dicit, quod
+            om<lb ed="#J" n="83" break="no"/>ne continuum &amp; vnum numero est per suam 
+            <lb ed="#J" n="84"/>formam, &amp; non per suam materiam. &amp; in. i. 
+            <lb ed="#J" n="85"/>de anima. con. a A8. &amp;. 8. expresse dicit
+            indiui<lb ed="#J" n="86" break="no"/>duum esse hoc, &amp; indiuiduum per formam, 
+            <lb ed="#J" n="87"/>quia non est indiuiduum, nisi, secundum quod est in 
+            <lb ed="#J" n="88"/>actu, &amp; non est in actu nisi per formam. So 
+            <lb ed="#J" n="89"/>uitur. indiuiduum distinguitur ab alio, &amp; a 
+            <lb ed="#J" n="90"/>priori, &amp; a posteriori. A priori autem aliquid 
+            <lb ed="#J" n="91"/>dicitur distingui, quando per principia
+            intrinse<lb ed="#J" n="92" break="no"/>ca constitutiua distinguitur. &amp; sic indiuiduu 
+            <lb ed="#J" n="93"/>cum constituatur in esse ex materia &amp; forma 
+            <lb ed="#J" n="94"/>tanquam ex principiis intrinsecis, sic
+            distm<lb ed="#J" n="95" break="no"/>guit ab alio, &amp; per suam materiam, &amp; per 
+            <lb ed="#J" n="96"/>suam formam. nam vt sribitur. eni. primae pluer 
+            <lb ed="#J" n="97"/>losophiae tex. con. 2A. alia est natura tua, &amp; 
+            <lb ed="#J" n="98"/>mea, forma tua, &amp; mea. Si autem ista duo adinm 
+            <lb ed="#J" n="99"/>uicem comparentur, videlicet forma, &amp; ma 
+            <lb ed="#J" n="100"/>teria, &amp; quaeratur a quo intuitius vnum
+            indi<lb ed="#J" n="101" break="no"/>uiduum distinguit ab alio, vtrum per suam 
+            <lb ed="#J" n="102"/>formam, an per suam mareriam. Ad hoc no 
+            <lb ed="#J" n="103"/>est nisi distuictione respondendum: quia qua 
+            <lb ed="#J" n="104"/>stio ista est multiplex: &amp; qui quidnem
+            multi<lb ed="#J" n="105" break="no"/>plicem: vt simplicem inteirogat, aut male 
+            <lb ed="#J" n="106"/>interrogat, aut captiose inteirogat. vbi enim est  
+            <lb ed="#J" n="107"/>multiplicitas, ibi est confusio apud
+            intelle<lb ed="#J" n="108" break="no"/>ctum, &amp; ideo oporeet quoenem multiplicem 
+            <lb ed="#J" n="109"/>interrogatam dist:inguere, vt docuit Philoso 
+            <lb ed="#J" n="110"/>phus in. i. coeli. inte. co. eno. &amp; in i ei.
+            elencho<lb ed="#J" n="111" break="no"/>ium. Dico igitur, quod aut hac quaeritur abso 
+            <lb ed="#J" n="112"/>lute, aut prout principium distinguendi 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0824.xml-->
+            <pb ed="#J" n="412-v"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>distinguitur contra principium
+            assimilan<lb ed="#J" n="2" break="no"/>di. si primum sic dico, quod quemadmodum 
+            <lb ed="#J" n="3"/>a forma indiuiduum habet esse &amp; non a ma 
+            <lb ed="#J" n="4"/>teria, ita etiam ab ea recipit distinctionem 
+            <lb ed="#J" n="5"/>quis, vt dicit lucidissimus Them. in
+            princi<lb ed="#J" n="6" break="no"/>x. de anima, a forma res habent vt essent, 
+            <lb ed="#J" n="7"/>sed a materia res habuerunt vt fierent. ma 
+            <lb ed="#J" n="8"/>teria enim est, ex quo fit aliquid: sed forma est, 
+            <lb ed="#J" n="9"/>per quam est hoc aliquid. &amp; hanc sententiam 
+            <lb ed="#J" n="10"/>asseruit etiam Commen in. v. met. in com¬¬ 
+            <lb ed="#J" n="11"/>vbi dicit forma est, quae cum fuerit, erit res: sed  
+            <lb ed="#J" n="12"/>materia cum fuerit non erit res. sic igitur a
+            for<lb ed="#J" n="13" break="no"/>ma principaliter indiuiduum habet esse, &amp; per 
+            <lb ed="#J" n="14"/>formam principaliter recipit distinctionem, 
+            <lb ed="#J" n="15"/>a priori loquendo. a materia autem non rec
+            i<lb ed="#J" n="16" break="no"/>pit distinctionem principaliter, sed
+            secunda<lb ed="#J" n="17" break="no"/>rio, vt comparat ad formam. Sed, si
+            distin<lb ed="#J" n="18" break="no"/>ctio indiuidui per materiam comparetur ad distin 
+            <lb ed="#J" n="19"/>ctionem a posteriori, quam habet indiuiduum per 
+            <lb ed="#J" n="20"/>quantitat et, &amp; per alia accidentia, sic dico, quod 
+            <lb ed="#J" n="21"/>indiuiduum principaliter distinguitur ab alio per 
+            <lb ed="#J" n="22"/>materiam, &amp; non per accidentia, nisi
+            concomi<lb ed="#J" n="23" break="no"/>tanter. &amp; hoc colligitur ex intentione Auer. in 
+            <lb ed="#J" n="24"/>lib. destructio destructionum in dispu. prima 
+            <lb ed="#J" n="25"/>in soio. v. dubii. vbi dicit inconueniens est in 
+            <lb ed="#J" n="26"/>diuiduum distingui ab alio indiuiduo solum 
+            <lb ed="#J" n="27"/>per accidentia, immo indiuidua ab inuicem 
+            <lb ed="#J" n="28"/>distitiguuntur materia. &amp;. v. primae
+            philoso<lb ed="#J" n="29" break="no"/>phiae. con iexpresse scribit, quod indiuiduum sub 
+            <lb ed="#J" n="30"/>stantiae praecedit indiuidua aliorum acciden 
+            <lb ed="#J" n="31"/>tium. sic igitur distinctio a materia est prior
+            di<lb ed="#J" n="32" break="no"/>stinctione per accidentia. Quod etiam rationem 
+            <lb ed="#J" n="33"/>onditur nam, si indiuiduum principaliter esset hoc 
+            <lb ed="#J" n="34"/>&amp; distinctum ab alio eiusdem speciei per aliquid 
+            <lb ed="#J" n="35"/>accidens, tunc aut hoc esset per accidentia 
+            <lb ed="#J" n="36"/>terminata, aut per accidentia interminata: 
+            <lb ed="#J" n="37"/>non per accidentia terminata, quia illa ad 
+            <lb ed="#J" n="38"/>ueniunt composito post formam secundum naturam. 
+            <lb ed="#J" n="39"/>vt dicit Com. in. i. cap. de substa. orbis, &amp; per 
+            <lb ed="#J" n="40"/>conse quens in illo priori indiuiduum est hoc, 
+            <lb ed="#J" n="41"/>&amp; non illud, &amp; non per aliquod accidens tet 
+            <lb ed="#J" n="42"/>minatum, nec etiam per accidentia intermina 
+            <lb ed="#J" n="43"/>ra, quia talia fundantur in materia, &amp; sunt in 
+            <lb ed="#J" n="44"/>differentia ad qualibet formam. Et ideo
+            ca<lb ed="#J" n="45" break="no"/>ueant, qui ponunt quantitatem esse principium 
+            <lb ed="#J" n="46"/>indiuiduationis a priori, &amp; distinctionis 
+            <lb ed="#J" n="47"/>sed solum est a posteriori. sic enim intelligo
+            di<lb ed="#J" n="48" break="no"/>ctum Con. in. i. pliy. con¬s. &amp; sicubi habet simile 
+            <lb ed="#J" n="49"/>modum, quod multiuido, aut est rerum differetium 
+            <lb ed="#J" n="50"/>secundum formam, aut est rerum differentium secundum quam 
+            <lb ed="#J" n="51"/>titatem. vbi per differentiam secundum quantitateni 
+            <lb ed="#J" n="52"/>intelligit differentiam eorum, quae sunt vnis speciei 
+            <lb ed="#J" n="53"/>sed licet Philosophis inspicientibus multi 
+            <lb ed="#J" n="54"/>tudinem in eadem specie apparuit, quod non inue 
+            <lb ed="#J" n="55"/>nitur nisi in rebs materialibs, &amp; quantis,
+            quam<lb ed="#J" n="56" break="no"/>titas tamen non ust principium uiuinsecum, &amp; prin¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0824.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>cipale istius multitudinis, &amp; distinctionis, 
+            <lb ed="#J" n="58"/>&amp; per se, sed necessario requisitum, &amp;
+            secun<lb ed="#J" n="59" break="no"/>darium. dixi autem necessario requisitum. quia, si 
+            <lb ed="#J" n="60"/>materia non esset diuisa per quantitatem in 
+            <lb ed="#J" n="61"/>suis partibus, non posset habere in eadem ho 
+            <lb ed="#J" n="62"/>ra plures formas in actu, vt seribit Con. in
+            li<lb ed="#J" n="63" break="no"/>bro de substantia orbis. Si autem quaestio quae 
+            <lb ed="#J" n="64"/>rat, vtrum distinguendo principium
+            assimilan<lb ed="#J" n="65" break="no"/>di contra principium distinguendi, a quo
+            in<lb ed="#J" n="66" break="no"/>diuiduum principaliter, &amp; approptiate recipit 
+            <lb ed="#J" n="67"/>dist instionem, &amp; similitudinem, vtrum a materia 
+            <lb ed="#J" n="68"/>vel a forma, Soluo sine aliquo dubio, quod
+            di<lb ed="#J" n="69" break="no"/>stinctionem appropriate recipit a materia, &amp; 
+            <lb ed="#J" n="70"/>assimilationem appropriate recipit a forma. 
+            <lb ed="#J" n="71"/>Nam impossibile est assimilationem fieri a mate 
+            <lb ed="#J" n="72"/>ria, a qua est omnis infirmitas, sed hoc est a 
+            <lb ed="#J" n="73"/>forma. &amp; hoc est, quod pulchre notauit Arist. 
+            <lb ed="#J" n="74"/>in praesenti tex. com. i. 8 quod quae sunt differentia
+            pro<lb ed="#J" n="75" break="no"/>pter materiam, vt Socrates, &amp; Callias, sunt
+            ea<lb ed="#J" n="76" break="no"/>dem in forma: ecce quod identiras est a forma 
+            <lb ed="#J" n="77"/>&amp; diuersitas est a materia. Vnde Con. in
+            comn<lb ed="#J" n="78" break="no"/>dicit quod multitudo indiuiduorum proueniens 
+            <lb ed="#J" n="79"/>ab vno generante est propter multitudinem 
+            <lb ed="#J" n="80"/>materietum in quas agit. &amp; est ratio, quia 
+            <lb ed="#J" n="81"/>fundamentum proximum identiatis est vnitas i 
+            <lb ed="#J" n="82"/>substantia. dicitur enim in. 8. meta. tex. conm.
+            io<lb ed="#J" n="83" break="no"/>eadem sunt, quorum substantia est vna. sed 
+            <lb ed="#J" n="84"/>cum vnitas sit principaliter a forma: dicitur, 
+            <lb ed="#J" n="85"/>eninm in. i. de anima. tex. con. v. Ens &amp; vnum 
+            <lb ed="#J" n="86"/>cum multipliciter dicantur, quod vere est, actus est  
+            <lb ed="#J" n="87"/>&amp;. i. phy. con. Ss. inquit Commen causa, propter 
+            <lb ed="#J" n="88"/>quam vnum est indiuisibile, est quia omnis 
+            <lb ed="#J" n="89"/>res est vna per suam forniam. forma autem est 
+            <lb ed="#J" n="90"/>indiuisibilis per se. &amp; hoc etiam sentit in in  
+            <lb ed="#J" n="91"/>finitis aliis locis. Materia autem appropriate di 
+            <lb ed="#J" n="92"/>citur esse principium distinctionis illo modo 
+            <lb ed="#J" n="93"/>quia ex quo non potuit esse principium
+            con<lb ed="#J" n="94" break="no"/>uenientiae, &amp; similitudinis, secutum est, vt 
+            <lb ed="#J" n="95"/>esset principium diuersitatis. Et hoc bene 
+            <lb ed="#J" n="96"/>enucleauit nobilis Peripateticus Auerro. in 
+            <lb ed="#J" n="97"/>lib. destructionum disputa. prima. in
+            solutio<lb ed="#J" n="98" break="no"/>ne. v. dubii, vbi sic scribit ad literam. Nam 
+            <lb ed="#J" n="99"/>causa multitudinis numeralis est materia 
+            <lb ed="#J" n="100"/>apud eos: causa vero distinctionis in
+            multi<lb ed="#J" n="101" break="no"/>tudine numerali est forma. Eeperiri auteni 
+            <lb ed="#J" n="102"/>multa numero, eadem tamen forma absque
+            ma<lb ed="#J" n="103" break="no"/>teria, est quid dubium. nam non cognoscitur, nec
+            di<lb ed="#J" n="104" break="no"/>stinguitur indiuiduum ab indiuiduo aliquo 
+            <lb ed="#J" n="105"/>attributo, nisi per accidens. quoniam reperitur 
+            <lb ed="#J" n="106"/>aliud, quod communicat ei in attrihuto illo: 
+            <lb ed="#J" n="107"/>distinguitur tamen indiuiduum ab indiuiduo ex 
+            <lb ed="#J" n="108"/>parte materiae. Adde etiam quod Philosophi, &amp;  
+            <lb ed="#J" n="109"/>praecipue Peripatetici, cum viderini
+            multitu<lb ed="#J" n="110" break="no"/>dinem sine necessitate in natura non esse 
+            <lb ed="#J" n="111"/>ponendam, dixerunt multiplicationem
+            indi<lb ed="#J" n="112" break="no"/>tuduorum in eadem specie ex dininutione 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0825.xml-->
+            <pb ed="#J" n="412-r"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>Proficisci, sicut notat Com. in. i. coeli in
+            conm<lb ed="#J" n="2" break="no"/>a. &amp;. S8. &amp; in. i. de anima, con. MA. &amp;, quia ta 
+            <lb ed="#J" n="3"/> sunt, quaecumque habent formam in mate 
+            <lb ed="#J" n="4"/>ria, vt generabilia &amp; corruptibilia, ideo
+            di<lb ed="#J" n="5" break="no"/>xerunt causam istius multiplicationis fuit 
+            <lb ed="#J" n="6"/>se materiam. vnde contradictiones iltae at 
+            <lb ed="#J" n="7"/>duae non nisi per distinctionem solui prctet: &amp;  
+            <lb ed="#J" n="8"/>ab huiusmodi difficultatibus non nisi solers 
+            <lb ed="#J" n="9"/>ingenium euadere poterit.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6136">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1041">Contradictio 13</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1044">
+            <lb ed="#J" n="10"/>Decimatertia contradi. est in com. 2o.
+            Ha<lb ed="#J" n="11" break="no"/>bet Commen. quod quemadmodum est in mo 
+            <lb ed="#J" n="12"/>bilibus localiter, quod quaedam mouentur ex se 
+            <lb ed="#J" n="13"/>&amp; quaedam ex alio, ita est in generabilibus 
+            <lb ed="#J" n="14"/>videtur eigo quod aliqua ab intrinseco alterari 
+            <lb ed="#J" n="15"/>queant, &amp; generari. Cuius oppositum patct 
+            <lb ed="#J" n="16"/>a. phy. com. i. Ibi soluitur. quia licet in
+            corpo<lb ed="#J" n="17" break="no"/>ribus simplicibus non inueniatur corpus, 
+            <lb ed="#J" n="18"/>quod alteretur ex se, sicut inuenitur corps, 
+            <lb ed="#J" n="19"/>umplex, quod mouetur in loco ex se: tamen in 
+            <lb ed="#J" n="20"/>compositis hoc, vt ipse dicit, fallit. quia talia 
+            <lb ed="#J" n="21"/>possunt habere principium intrinlecum esse 
+            <lb ed="#J" n="22"/>ctiuum respectu suae alterationis, &amp; partia. 
+            <lb ed="#J" n="23"/>lis generationis: sicut est in nutritione,
+            quae<lb ed="#J" n="24" break="no"/>sit in animalibus, &amp; plantis respectu illorum, 
+            <lb ed="#J" n="25"/>quae adueniunt sui corporibus ab extrinse 
+            <lb ed="#J" n="26"/>co, sicut est cibus &amp; potus.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6181">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1086">Contradictio 14</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1089">
+            <lb ed="#J" n="27"/>Decimaquarta contradi. est in com¬i. Di 
+            <lb ed="#J" n="28"/>cit quod in generatione substantiae oportet, quod 
+            <lb ed="#J" n="29"/>praeexistat agens, quod sit substantia. Sed in 
+            <lb ed="#J" n="30"/>stantia est de igne, qui. i. coeli. com. As. &amp;. i 
+            <lb ed="#J" n="31"/>meteoro generatur a niotu. Soluitur in
+            com<lb ed="#J" n="32" break="no"/>illo. Ax. Nam substantiae imperfectae, quae 
+            <lb ed="#J" n="33"/>quodam modo mediant inter
+            substantia<lb ed="#J" n="34" break="no"/>&amp; accident, quales sunt substantiae elemen 
+            <lb ed="#J" n="35"/>torum, indifferenter possunt &amp; ab
+            vniuoco<lb ed="#J" n="36" break="no"/>&amp; ab aequ iuoco generari.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6211">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1116">Contradictio 15</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1119">
+            <lb ed="#J" n="37"/>Decimaquinta contradi. est int. is. Dici 
+            <lb ed="#J" n="38"/>Philosophus in praesenti tex. vbi loquitur de 
+            <lb ed="#J" n="39"/>partibus definitionis secundum materiam, &amp; secundum 
+            <lb ed="#J" n="40"/>formam, quod anima &amp; animae esse sunt idem, 
+            <lb ed="#J" n="41"/>&amp; circulus &amp; circulo esse sunt idem, vbi Con 
+            <lb ed="#J" n="42"/>men in comm. notat, quod intendit Philosophus 
+            <lb ed="#J" n="43"/>per hoc, quod definitio animae, quae dat eius
+            qui<lb ed="#J" n="44" break="no"/>ditatem, videtur esse ipsum suum esse, &amp; quod 
+            <lb ed="#J" n="45"/>in definitione eius non apparet materia 
+            <lb ed="#J" n="46"/>mnino, &amp; ista, in quorum definitione eis non al 
+            <lb ed="#J" n="47"/>paret materia, sunt illa, in quorum definitione 
+            <lb ed="#J" n="48"/>apparet, aliud, &amp; definitio dicitur de illis
+            princi<lb ed="#J" n="49" break="no"/>pauter, &amp; de istis secundario. Sed huis oppo 
+            <lb ed="#J" n="50"/>situm adducebam ex. i. de anima tex. con. g 
+            <lb ed="#J" n="51"/>vbi dicitur quod anima est actus corporis in 
+            <lb ed="#J" n="52"/>struntentalis, potentia vitam habentis: vbi 
+            <lb ed="#J" n="53"/>patet quod in definitione animae ponitur con 
+            <lb ed="#J" n="54"/>pus, quod est nmateria, vt habetur.. de
+            ani<lb ed="#J" n="55" break="no"/>ma. te. com. 8. <ref xml:id="GHcsQQ-d1e520-Rd1e1162">beatus Thomas in. primae 
+              <lb ed="#J" n="56"/>philosophiae in lectione. 8 in exnolitione 
+              <!--Averroes_Metaphysica_JuntSecunda_08-0825.xml-->
+              <cb ed="#J" n="b"/>
+              <lb ed="#J" n="57"/>tex 2A</ref>. dicit quod in definitionibus illarum 
+            <lb ed="#J" n="58"/>formarum, quae sunt simul sumptae cum 
+            <lb ed="#J" n="59"/>materia, ita, quod forma non potest distincte 
+            <lb ed="#J" n="60"/>concipi sine tali materia, licet materia non 
+            <lb ed="#J" n="61"/>sit pars formae, tamen in definitione talis 
+            <lb ed="#J" n="62"/>formae dicitur poni materia, vt corpus in 
+            <lb ed="#J" n="63"/>strumentale in definitione animae. sicut enim 
+            <lb ed="#J" n="64"/>accidentia non habent esse perfectum, nisi 
+            <lb ed="#J" n="65"/>secundum per sunt in subiecto, ita nec formae nisi 
+            <lb ed="#J" n="66"/>secundum, quod sunt in proprijs materijs, &amp; propter 
+            <lb ed="#J" n="67"/>hoc sicut accidentia definiuntur ex
+            addi<lb ed="#J" n="68" break="no"/>tione proprij subiecti, sic formae ex additio 
+            <lb ed="#J" n="69"/>ne propriae materiae. &amp; hanc viam etiam se 
+            <lb ed="#J" n="70"/>quitur Egidius Eomanus in. 2 de anima 
+            <lb ed="#J" n="71"/>Sed ista opinio stare non potest. quia Arist. 
+            <lb ed="#J" n="72"/>definionem datam per additamentum in 
+            <lb ed="#J" n="73"/>v. meta. dicit esse accidentium, &amp; non
+            sub<lb ed="#J" n="74" break="no"/>stantiarum. cum autem forma sit
+            substan<lb ed="#J" n="75" break="no"/>tia, non potest dici, quod definitur per ad dite 
+            <lb ed="#J" n="76"/>mentum, nisi rediret opinio Antiquorum 
+            <lb ed="#J" n="77"/>asserentium omnem formam esse accidens 
+            <lb ed="#J" n="78"/>Et ideo dicamus nos cum Antiquis
+            Peripa<lb ed="#J" n="79" break="no"/>teticis quod licet in definitione formarum ma 
+            <lb ed="#J" n="80"/>terialium debet poni materia, vt habetur, 
+            <lb ed="#J" n="81"/>in primo de anima tex. com. is. &amp; in. a. phy. 
+            <lb ed="#J" n="82"/>tex. con¬. &amp;. &amp; licet materia non sit pars
+            for<lb ed="#J" n="83" break="no"/>mae. quia tamen est vehiculum, &amp; subiectum for 
+            <lb ed="#J" n="84"/>mae, &amp; in relatione quandam consistit ad ip 
+            <lb ed="#J" n="85"/>sam formam, impossibile est formam talem 
+            <lb ed="#J" n="86"/>vt sic sine materia definire, vt sentit Commen. 
+            <lb ed="#J" n="87"/>i. de anima commen in &amp;. &amp; in. 8. phy. con.i&amp;. 
+            <lb ed="#J" n="88"/>Non tamen propter hoc illa definitio erir 
+            <lb ed="#J" n="89"/>ex additione. quia definitiones ex
+            additio<lb ed="#J" n="90" break="no"/>ne sunt de genere illarum, in quibus
+            appa<lb ed="#J" n="91" break="no"/>ret aliud, vt dicit Commen in praesenti
+            con<lb ed="#J" n="92" break="no"/>mento, &amp; sunt definitiones accidentium, 
+            <lb ed="#J" n="93"/>in quibus apparet subiectum, quod est aliud 
+            <lb ed="#J" n="94"/>genere a forma definiti. sed materia est in  
+            <lb ed="#J" n="95"/>eodem genere cum forma. Amplius ex
+            ma<lb ed="#J" n="96" break="no"/>teria &amp; forma fit per se vnum, sed ex subiecto 
+            <lb ed="#J" n="97"/>&amp; accidente non fit per se vnum. &amp; ideo 
+            <lb ed="#J" n="98"/>nullo pacto Antiqui Peripatetici conce, 
+            <lb ed="#J" n="99"/>dunt definitionem formae substantialis esse 
+            <lb ed="#J" n="100"/>ex additione. hoc enim est accidentalis formae 
+            <lb ed="#J" n="101"/>proprium. Sed quantum spectat ad
+            praesen<lb ed="#J" n="102" break="no"/>tem contradictionem soluo, quod
+            Comnmenta<lb ed="#J" n="103" break="no"/>intellexit in definitione, quae dat quiditatem, 
+            <lb ed="#J" n="104"/>animae, non apparet materia omnino,
+            vide<lb ed="#J" n="105" break="no"/>licet sicut apparet materia in definitione ac 
+            <lb ed="#J" n="106"/>cidentium, ex qua etforma non fit per se vnum 
+            <lb ed="#J" n="107"/>nam hoc declarant verba sequentia. inquit enim 
+            <lb ed="#J" n="108"/>quod tales definitiones, in quibus apparet mate 
+            <lb ed="#J" n="109"/>ria, sunt de genere illarum, in quibus apparet 
+            <lb ed="#J" n="110"/>aliud: &amp; definitio in illis dicitur principai.. &amp; in 
+            <lb ed="#J" n="111"/>istis secundario. notum est autem ex declaratis 
+            <lb ed="#J" n="112"/>in septimo, quod subiectum cadit in definitione 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0826.xml-->
+            <pb ed="#J" n="413-v"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>accidenti ui sicut additum, &amp; sicut causa
+            ma<lb ed="#J" n="2" break="no"/>terialis, vt dicit Commen expresse. 8. mera. 
+            <lb ed="#J" n="3"/>co. i. &amp; tales definitiones sunt secundario, 
+            <lb ed="#J" n="4"/>sed definitiones, in quibus non apparet
+            ma<lb ed="#J" n="5" break="no"/>teria alterius generis, sunt substantiarum, &amp;  
+            <lb ed="#J" n="6"/>talium definitiones sunt principaliter. Illo
+            mo<lb ed="#J" n="7" break="no"/>do igitur est glosanda authoritas Comment, quod  
+            <lb ed="#J" n="8"/>omnino non apparet materia in
+            definitio<lb ed="#J" n="9" break="no"/>ne animae, sicut appatet materia in
+            defini<lb ed="#J" n="10" break="no"/>tione accidentium, &amp; est sermo consonus 
+            <lb ed="#J" n="11"/>verbis sequentibus. Aut dic quod, licet in
+            defini<lb ed="#J" n="12" break="no"/>tione dante animae quiditatem apparet ma 
+            <lb ed="#J" n="13"/>teria, tamen non apparet omnino tanquam perti 
+            <lb ed="#J" n="14"/>nens ad esse quiditatiuum animae. quia ari 
+            <lb ed="#J" n="15"/>ma &amp; suum esse idem sunt. Dicit enim Commen 
+            <lb ed="#J" n="16"/>con.ig. declarans praesentem authoritatem quomod 
+            <lb ed="#J" n="17"/>anima &amp; esse animae idem sunt, nomen
+            for<lb ed="#J" n="18" break="no"/>mae dicitur de forma vniversali, &amp; de forma
+            particula<lb ed="#J" n="19" break="no"/>ti, sed bene apparet in definitione eius, sicu 
+            <lb ed="#J" n="20"/>vehiculum deferens ipsam quiditatem, vt 
+            <lb ed="#J" n="21"/>glosat Cumme. v. meta. con. ia. Et nota vnum 
+            <lb ed="#J" n="22"/>satis pulchrum, &amp; est antiquum dictum
+            Alexam<lb ed="#J" n="23" break="no"/>quim Naturalis plerumque in scientia Naturali in 
+            <lb ed="#J" n="24"/>concipiendis rebus, de quibus consyderat, 
+            <lb ed="#J" n="25"/>vtitur abstr actione mathematica, vt alias 
+            <lb ed="#J" n="26"/>notaui tibi. forma enim ratione sepatabilis est. 2 
+            <lb ed="#J" n="27"/>phy. con. &amp; tex. ix. Et Arist. in. v. meta. in
+            tex<lb ed="#J" n="28" break="no"/>con: v. expresse etiam cont edit, quod formae, quae 
+            <lb ed="#J" n="29"/>cunmque in vna materia solum esse possunt, ice 
+            <lb ed="#J" n="30"/>militer se habent illis, quae in diuersis sunt 
+            <lb ed="#J" n="31"/>materijs. Nam sicut illae, quae in diuersis ma 
+            <lb ed="#J" n="32"/>terijs existunt, materia non est pars forma 
+            <lb ed="#J" n="33"/>sicut quia forma circuli inest lapidi, &amp; ligno, 
+            <lb ed="#J" n="34"/>indiscriminatim saluari potest, neutra talium 
+            <lb ed="#J" n="35"/>materierum est de quiditate circuli, neque 
+            <lb ed="#J" n="36"/>pars suae essentiae. Fadem ratione continge 
+            <lb ed="#J" n="37"/>ret, si omnes circuli essent aenei, ita quod forma cis 
+            <lb ed="#J" n="38"/>culi in nulla alia materia saluaretur, propter hoc 
+            <lb ed="#J" n="39"/>aes non esset de quiditate circuli, nec pars for 
+            <lb ed="#J" n="40"/>malis eius, et licet forma circu in non posset 
+            <lb ed="#J" n="41"/>actu separari a tali materia: posset tamen intel 
+            <lb ed="#J" n="42"/>lectu separari, lic et hoc sit magis difficile, quae 
+            <lb ed="#J" n="43"/>in casu, quo forma potest saluari in diuersis 
+            <lb ed="#J" n="44"/>materijs: sed non est hoc impossibile. &amp; hoc 
+            <lb ed="#J" n="45"/>est quod confitetur etiam Commen in com. A 
+            <lb ed="#J" n="46"/>vbi dicit, omnes vero formae, quae non exi 
+            <lb ed="#J" n="47"/>stunt plusquam in vna materia, a qua nunquam 
+            <lb ed="#J" n="48"/>separantur. quoniam hoc non prohibet intellectu 
+            <lb ed="#J" n="49"/>intelligere in eis esse aliquid similae mate 
+            <lb ed="#J" n="50"/>riae, &amp; aliquid simile formae. quemadmo 
+            <lb ed="#J" n="51"/>dum, si circulus nunquam esset nisi in
+            cu<lb ed="#J" n="52" break="no"/>pro, hoc non prohibet intelligere, quod cuprum 
+            <lb ed="#J" n="53"/>E n est inernia circus i, nec pars formae. hoc 
+            <lb ed="#J" n="54"/>etiam asleri: Conc. nem. in. a. met. commen, qui 
+            <lb ed="#J" n="55"/>vbi dicit, quod intels. cus ins. itus est diuidere 
+            <lb ed="#J" n="56"/>aduuata n esse, sicut diuidit niatcriam a for¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0826.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>ma, &amp; formam a composito ex materia, &amp; 
+            <lb ed="#J" n="58"/>forma. &amp; hoc est ad confirmandum
+            secun<lb ed="#J" n="59" break="no"/>dam solutionem,
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6531">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1436">Contradictio 16</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1439">
+            <lb ed="#J" n="60"/>Decimasexta contradi. est in tex. 8. Seri 
+            <lb ed="#J" n="61"/>bit Philosophus, &amp; Commen quod formae
+            natu<lb ed="#J" n="62" break="no"/>rales non possunt abstrahi a materia. vnde 
+            <lb ed="#J" n="63"/>Commen dicit quod impossibile est
+            intellige<lb ed="#J" n="64" break="no"/>re hominem sine carnibus &amp; ossibus. Sed hoc 
+            <lb ed="#J" n="65"/>videtur contradicere Arist. in tex. vbi dicit, quod 
+            <lb ed="#J" n="66"/>sicut formae, quae sunt in diuersis materijs, 
+            <lb ed="#J" n="67"/>materia non est pars formae, &amp; intellectus 
+            <lb ed="#J" n="68"/>potest abstrahere formam a materia, ita pa 
+            <lb ed="#J" n="69"/>riformiter in illis, quae in vna solum existunt 
+            <lb ed="#J" n="70"/>materia, in qua nunquam separantur, vt si 
+            <lb ed="#J" n="71"/>omnes circuli sunt aenei, sicut sunt formae natu 
+            <lb ed="#J" n="72"/>rales, quae in propria, &amp; determinata existunt 
+            <lb ed="#J" n="73"/>materia, vt hominis forma semper cum car 
+            <lb ed="#J" n="74"/>nibus &amp; ossibus spectatur. hoc autem auferre 
+            <lb ed="#J" n="75"/>mente non est difficile, ita quod verba Comment 
+            <lb ed="#J" n="76"/>contradicunt verbis Arist. Et confirmatur. 
+            <lb ed="#J" n="77"/>quia Aristo. in i. phy. conm. &amp; te. is. describens 
+            <lb ed="#J" n="78"/>formam, quae est natura, dicit quod est forma,  
+            <lb ed="#J" n="79"/>&amp; species, non separabilis existens, nisi secundum 
+            <lb ed="#J" n="80"/>rationem. &amp; ita quaelibet forma naturali:
+            vide<lb ed="#J" n="81" break="no"/>tur ratione separabilis. Et confirmatur
+            au<lb ed="#J" n="82" break="no"/>thotitate Commenta nim meta. con.: 8. vbi di 
+            <lb ed="#J" n="83"/>cit quod intellectus potest diuidere adunata ines 
+            <lb ed="#J" n="84"/>se, sicut diuidit materiam a forma, &amp;
+            for<lb ed="#J" n="85" break="no"/>mam a composito ex materia, &amp; forma. &amp;  
+            <lb ed="#J" n="86"/>est aperta contradictio, sicut vides. Scias igi 
+            <lb ed="#J" n="87"/>tur secundum mentem Auer. v. meta. con. eim quod ho 
+            <lb ed="#J" n="88"/>mo quandoque sumitur pro hominis
+            quidi<lb ed="#J" n="89" break="no"/>tate, &amp; quandoque sumitur pro congregato 
+            <lb ed="#J" n="90"/>ex materiaet forma Et primo modo, forma 
+            <lb ed="#J" n="91"/>hominis est homo, &amp; secundo nodo forma 
+            <lb ed="#J" n="92"/>hominis non est homo. quia homo pro
+            con<lb ed="#J" n="93" break="no"/>gregato constat ex materia &amp; forma,
+            tan<lb ed="#J" n="94" break="no"/>quam ex partibus substantialibus. vnde aliud 
+            <lb ed="#J" n="95"/>est essentia hominis, aliud hominis
+            quidi<lb ed="#J" n="96" break="no"/>tas. &amp; ita est in omnibus generabilibus
+            ha<lb ed="#J" n="97" break="no"/>bentibus formam conceptam cum
+            mate<lb ed="#J" n="98" break="no"/>ria. 8. meta. tex com. ei. Et animaduertere, quod 
+            <lb ed="#J" n="99"/>si sumatur hoio pro congregato, vt est
+            es<lb ed="#J" n="100" break="no"/>sentia quaedam per se existens, sic homo non 
+            <lb ed="#J" n="101"/>ptest intelligi sine forma, &amp; materia, quia 
+            <lb ed="#J" n="102"/>sunt parres, quae sunt de eius essentia, &amp; vna 
+            <lb ed="#J" n="103"/>non sufficit sine alia. sed, si homo fumatur 
+            <lb ed="#J" n="104"/>pro hominis quiditate: sic forma
+            homi<lb ed="#J" n="105" break="no"/>nis potest intelligi per abstractionem intel 
+            <lb ed="#J" n="106"/>lectus sine materia, quia materia non est 
+            <lb ed="#J" n="107"/>pars talis formae, sen quidita: is, licet istam 
+            <lb ed="#J" n="108"/>abstractionem difficilius operetur
+            intelle<lb ed="#J" n="109" break="no"/>ctus in formis naturalibus, quae in mathema 
+            <lb ed="#J" n="110"/>ticis: quia tale sunt indeterminata materia,  
+            <lb ed="#J" n="111"/>a qua nunquam separari possunt, vt sint 
+            <lb ed="#J" n="112"/>in alia. Intellectus enim vt scribit Commenta. 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0827.xml-->
+            <pb ed="#J" n="413-r"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>in 8. physi. in com.vt. multotiens opinatur il 
+            <lb ed="#J" n="2"/>lud, quod sequitur rem, sit ipsa res. Homo igitur 
+            <lb ed="#J" n="3"/>pro congregato impossibile est vt intelligatur 
+            <lb ed="#J" n="4"/>sine carnibus, &amp; ossibus, quia compositum 
+            <lb ed="#J" n="5"/>non potest intelligi, neque constare sine par 
+            <lb ed="#J" n="6"/>tibus componentibus. sed homo pro
+            homi<lb ed="#J" n="7" break="no"/>nis quiditate potest intellectu abstrahi a mate 
+            <lb ed="#J" n="8"/>ria, licet hoc difficilius sit, qua in formis ma 
+            <lb ed="#J" n="9"/>thematicis. Et nota, vt testatur Alexan, quod ista 
+            <lb ed="#J" n="10"/>abstractio est mathematica, qua quandoquam Na 
+            <lb ed="#J" n="11"/>turalis vtitur, vt alias notaui tibi. Et nota quod re 
+            <lb ed="#J" n="12"/>fert dicere formam naturalem posse intelligi 
+            <lb ed="#J" n="13"/>sine materia, &amp; dicere posse eam
+            definiti<lb ed="#J" n="14" break="no"/>primum verum est mathematica alistractio¬, 
+            <lb ed="#J" n="15"/>ne, vt dixi, sed secundum est impossibile, &amp; hoc
+            no<lb ed="#J" n="16" break="no"/>tat ben Arist. vx. meta. tex. com.  8.
+            contra<lb ed="#J" n="17" break="no"/>Platonem, vbi dicit, &amp; comparatio quidem 
+            <lb ed="#J" n="18"/>de animali, quam iumor Socrates dicere so 
+            <lb ed="#J" n="19"/>lebat non bene se habet. abducit enim a veri 
+            <lb ed="#J" n="20"/>tate, &amp; opinari facit, quasi contingens sit hom 
+            <lb ed="#J" n="21"/>minem esse sine partibus, sicut sine aere
+            cir<lb ed="#J" n="22" break="no"/>culum. Sed hoc non est simile. sensibile namque 
+            <lb ed="#J" n="23"/>aliquid forsan ansmal est: &amp; sine mota non 
+            <lb ed="#J" n="24"/>est definire. &amp; quando Com. ibidem in com. dicit 
+            <lb ed="#J" n="25"/>quod quiditates naturales non possunt
+            intelli<lb ed="#J" n="26" break="no"/>gi sine motu, sicut quiditates Mathematico 
+            <lb ed="#J" n="27"/>rum, intelligendum est definitiue, quia
+            ali<lb ed="#J" n="28" break="no"/>ter contradiceret textui. primo enim de anima 
+            <lb ed="#J" n="29"/>tex. com. io. Physicus definit per
+            materiani<lb ed="#J" n="30" break="no"/>sensibilem, &amp;. 8. nmeta. tex. con¬i. idem habetur 
+            <lb ed="#J" n="31"/>vbi venatur distinctionem scienriarum spe 
+            <lb ed="#J" n="32"/>culatiuarum ex diuersis modis definiendi. sic 
+            <lb ed="#J" n="33"/>igitur oportet intelligere dicta sapientum, 
+            <lb ed="#J" n="34"/>quae non possunt intelligi in modico tempore, &amp; 
+            <lb ed="#J" n="35"/>sine labore grandi. Dcus sit dator auxilij.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6737">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1642">Contradictio 17</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1645">
+            <lb ed="#J" n="36"/>Decima septima contradict. est in com 37. 
+            <lb ed="#J" n="37"/>Auer. dicit, quod definitio est formae vniversalis, non  
+            <lb ed="#J" n="38"/>compositi ex materia &amp; forma. Huius op 
+            <lb ed="#J" n="39"/>positum patet conimento vltimo octa:  
+            <lb ed="#J" n="40"/>huius, vbi habet definitiones esse
+            composi<lb ed="#J" n="41" break="no"/>torum. Soluitur. sumpsit hic compositum 
+            <lb ed="#J" n="42"/>ex matersa &amp; forma, vt est singulars
+            distin<lb ed="#J" n="43" break="no"/>ctum contra vniuersale. &amp; talis non est
+            de<lb ed="#J" n="44" break="no"/>finitio, sed seusus. sed com. vltimo octaui huic 
+            <lb ed="#J" n="45"/>umpsit cempositum vniversale. nam tale ex
+            ma<lb ed="#J" n="46" break="no"/>teria in communi, &amp; forma in
+            commini<lb ed="#J" n="47" break="no"/>componitur. et istius definitio esse porest, te 
+            <lb ed="#J" n="48"/>ste Philosopho hic. v. meta. tex. con:V
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6774">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1679">Contradictio 18</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1682">
+            <lb ed="#J" n="49"/>Decimaoctatia contradi. est ibilem.
+            Seri<lb ed="#J" n="50" break="no"/>bitur, quod formae natura es ab intellectu non 
+            <lb ed="#J" n="51"/>possunt separariam matetia in imaginatione 
+            <lb ed="#J" n="52"/>cuius tamen oppositum scribitur. 8. phiy. c. S * 
+            <lb ed="#J" n="53"/>&amp;. 8. meta. con 8. Soluitur. omne, quod intel 
+            <lb ed="#J" n="54"/>ligitur, intelligitur secundum quod est in actu: sicut pa 
+            <lb ed="#J" n="55"/>et. 8. meta. tex. con xo. &amp; ideo, cum materia 
+            <lb ed="#J" n="56"/>sit pura potentia, pro oecursu ab intellectu 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0827.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>non potest apprehendi sine forma, sed est per 
+            <lb ed="#J" n="58"/>analogiam ad fermam cognoscibilis: sicut 
+            <lb ed="#J" n="59"/>patet. i. phy. cex. con. &amp; o. sed sic cognita mate 
+            <lb ed="#J" n="60"/>ria, intellectus actu secundo potest materiam 
+            <lb ed="#J" n="61"/>sine forma intelligere, intelligendo scilicet mate 
+            <lb ed="#J" n="62"/>riam non esse formani, &amp; forma in non cise 
+            <lb ed="#J" n="63"/>nateriam. Nam vt seribit Conimenta. 22 
+            <lb ed="#J" n="64"/>meta. con.i8. intellectus natus est diuidere 
+            <lb ed="#J" n="65"/>adunata in esse in ea, ex quibus componuri 
+            <lb ed="#J" n="66"/>tur: quamuis non diuidantur in esse, sicut
+            di<lb ed="#J" n="67" break="no"/>uidit materiam a fornia. 
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6828">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1733">Contradictio 19</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1736">
+            <lb ed="#J" n="68"/>Decimanona contradi. est in e. A A. Dicit 
+            <lb ed="#J" n="69"/>Commen quod in indiuiduo non est nisi fornma 
+            <lb ed="#J" n="70"/>particularis, &amp; materia, ex quibus coniponi 
+            <lb ed="#J" n="71"/>tur. Sed huius oppositum patet. 8. meta
+            con<lb ed="#J" n="72" break="no"/>8. vbi habet, quod in indiuiduo demonstrato 
+            <lb ed="#J" n="73"/>est natura acdita naturae componentium, 
+            <lb ed="#J" n="74"/>&amp; est illud, quod fit ex compositione. in om 
+            <lb ed="#J" n="75"/>ni enim compositione ad aliquam vnitarem deue 
+            <lb ed="#J" n="76"/>nire necessar ium est. Soluitur. constitutiud 
+            <lb ed="#J" n="77"/>&amp; integratiue nihil aliud est in indiuiduo, quae 
+            <lb ed="#J" n="78"/>materia, &amp; forma. sic intelligitur dictum eius 
+            <lb ed="#J" n="79"/>hic. entitatiue autem aliquid tertium poten 
+            <lb ed="#J" n="80"/>esse, quod non est nec materia, nec forma, 
+            <lb ed="#J" n="81"/>sed est substantia composita: quicquid
+            di<lb ed="#J" n="82" break="no"/>cant Nouelli negantes tertiam entitateni, 
+            <lb ed="#J" n="83"/>secundum principia Auet. Aut aliter dici potest, quod
+            di<lb ed="#J" n="84" break="no"/>ctum eius hic procedit contra Platonem, qui 
+            <lb ed="#J" n="85"/>posuit ideam separatam necessariam ad ge 
+            <lb ed="#J" n="86"/>nerationem indiuidui, &amp; ad eius
+            composi<lb ed="#J" n="87" break="no"/>tionem sicut potest patere tibi ex comm. &amp; 8. 
+            <lb ed="#J" n="88"/>huius septimi. &amp; ita ista authoritas non est 
+            <lb ed="#J" n="89"/>contia ipsunm in praeallegata authoritate. 5 
+            <lb ed="#J" n="90"/>meta. sicut vides 
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6886">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1791">Contradictio 20</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1794">
+            <lb ed="#J" n="91"/>Vigesima contradi. est in com.Q. Auer. di 
+            <lb ed="#J" n="92"/>cit quod nullum commune est substantia. &amp;  
+            <lb ed="#J" n="93"/>idenm habet. 8 8. Sed huius oppositum paret 
+            <lb ed="#J" n="94"/>hic in com. 2. 8. vbi habet quod definitiones vni- 
+            <lb ed="#J" n="95"/>uersalium habent aliquam dispositlonem 
+            <lb ed="#J" n="96"/>dispositionum substantialium, &amp; qualitatet 
+            <lb ed="#J" n="97"/>accidentem eis. Solnitur. Comment. in ista 
+            <lb ed="#J" n="98"/>authoritate. 2 8. allegata expresse innuit du 
+            <lb ed="#J" n="99"/>plicem vniuersalis acceptionem, scilicet pro intenm 
+            <lb ed="#J" n="100"/>tione secunda, quae est quaedam qualitas, i. 
+            <lb ed="#J" n="101"/>quoddam accidens a ratione causarumi, &amp;
+            attri<lb ed="#J" n="102" break="no"/>butum vniuersali pro prima intentione: quid 
+            <lb ed="#J" n="103"/>niversale pro prima i: tantione api: ellat ipse dispo 
+            <lb ed="#J" n="104"/>sitionem ex dispositionibus substantialibus, 
+            <lb ed="#J" n="105"/>idest habentibus esse citra actum animae. 
+            <lb ed="#J" n="106"/>Quod autem dicitur abi ipso in traesanti com. quod nul 
+            <lb ed="#J" n="107"/>lum commune est substantia, hoc cuicit ad 
+            <lb ed="#J" n="108"/>modum, quo posuit Plato. vniversalia enim apud Ari. 
+            <lb ed="#J" n="109"/>non habent esse extra animam, sicut posuit 
+            <lb ed="#J" n="110"/>Plato. i. de anima. con. is. &amp;. i ineta. conA si 
+            <lb ed="#J" n="111"/>Arist. opinabatur quod intellecta rerum
+            noti<lb ed="#J" n="112" break="no"/>ficant substantias earum, &amp; non sunt sub¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0828.xml-->
+            <pb ed="#J" n="414-v"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>stantiae earum. Sic igitur vniuersale pro
+            pri<lb ed="#J" n="2" break="no"/>ma intentione non dicit aliquam forniam 
+            <lb ed="#J" n="3"/>realem distinctam a forma particulari
+            reali<lb ed="#J" n="4" break="no"/>ter, vt quidam voluetunt: sed dicit conce 
+            <lb ed="#J" n="5"/>ptum realem, qui est notio singularium, &amp; est 
+            <lb ed="#J" n="6"/>forma declarans non dans esse. tenemus enim 
+            <lb ed="#J" n="7"/>formam generis speciei, &amp; indiuidui vnam 
+            <lb ed="#J" n="8"/>esse secundum rem, solum ratione differentem. 
+            <lb ed="#J" n="9"/>Et sic gloso authoritatem eius id est meta. con 
+            <lb ed="#J" n="10"/>iv. quando dicit quod materia prius recipit formas 
+            <lb ed="#J" n="11"/>vniuersales, quae minus vniversales: &amp; eis mediant, 
+            <lb ed="#J" n="12"/>bus recipit indiuiduales: non quod in mate 
+            <lb ed="#J" n="13"/>ria sit multitudo formarum corresponden 
+            <lb ed="#J" n="14"/>tium multitudini praedicatorum quiditati 
+            <lb ed="#J" n="15"/>tiorum factorum. ab intellectu, sed vna &amp; ea 
+            <lb ed="#J" n="16"/>dem forma, secundum modum intelligendi nim 
+            <lb ed="#J" n="17"/>prius intelligitur informare materiam quo 
+            <lb ed="#J" n="18"/>ad gradum substantialitatis, qui corporeita 
+            <lb ed="#J" n="19"/>tis, &amp; prius quo ad gradum corporis, quae vi 
+            <lb ed="#J" n="20"/>uentis, &amp; sic descedendo vsque ad vltimum
+            in<lb ed="#J" n="21" break="no"/>diuidualem gradum: quicquid dicat lohannes 
+            <lb ed="#J" n="22"/>de tanduno in hoc, &amp; sequat es aeius.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e6996">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1901">Contradictio 21</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1904">
+            <lb ed="#J" n="23"/>Vigesimaprima contradi. est in com.8. 
+            <lb ed="#J" n="24"/>Haaet Com. quod essentiae rerum sunt existentes, 
+            <lb ed="#J" n="25"/>licet non intelligantur, Sed opponebatur per 
+            <lb ed="#J" n="26"/>nos ibidem per commen primum. i. meta. vbi 
+            <lb ed="#J" n="27"/>habet quod, si substantiae intellectuales a non 
+            <lb ed="#J" n="28"/>bis non essent intellectae, tunc essent fru¬. 
+            <lb ed="#J" n="29"/>stra in natura, et per consequens non essent, 
+            <lb ed="#J" n="30"/>cum natura nihil agat frustra. i. coeli. 2r. &amp;  
+            <lb ed="#J" n="31"/>8. de aninia. A 8. Vide in cont. i. meta. quia 
+            <lb ed="#J" n="32"/>fuit ibi soluta ista instantia diligenter
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e7027">
+          <head xml:id="GHcsQQ-d1e520-Hd1e1932">Contradictio 22</head>
+          <p xml:id="GHcsQQ-d1e520-d1e1935">
+            <lb ed="#J" n="33"/>Vigesima secunda contrad. est in com. e
+            quo<lb ed="#J" n="34" break="no"/>Habetur quod compositum per se est aliud a 
+            <lb ed="#J" n="35"/>componentibus. Huius oppositum scribit 
+            <lb ed="#J" n="36"/>Commen. in. . phy. com. i v. &amp; supra co.
+            AA<lb ed="#J" n="37" break="no"/>vbi dicebat quod in composito non est nisi nia 
+            <lb ed="#J" n="38"/>teria, &amp; forma particularis, ex quibus compo 
+            <lb ed="#J" n="39"/>nitur. Soluitur in omni per se compositione, 
+            <lb ed="#J" n="40"/>secundum omnes sapientes necessarium est ad ali 
+            <lb ed="#J" n="41"/>quam per se vnitatem deuenire, &amp; huius 
+            <lb ed="#J" n="42"/>oppositum non potest imaginari ab
+            intelle<lb ed="#J" n="43" break="no"/>ctu disposito ad bonum. cum igitur
+            com<lb ed="#J" n="44" break="no"/>positio ex materia &amp; forma sit per se
+            com<lb ed="#J" n="45" break="no"/>positio, oportet igitur istam terminari ad
+            ali<lb ed="#J" n="46" break="no"/>quam per se vnitatem. istud non est nisi 
+            <lb ed="#J" n="47"/>tertia entitas. Si enim in mixtione elenien 
+            <lb ed="#J" n="48"/>torum non dicimus mixtum esse omnia 
+            <lb ed="#J" n="49"/>quatuor elementa simul sumpta: nam tum 
+            <lb ed="#J" n="50"/>mixtio esset partium inxta positio contra 
+            <lb ed="#J" n="51"/>Philosoplium primo de generatione. Ms. &amp;  
+            <lb ed="#J" n="52"/>Conien hic expiesse. caro non est terra &amp; 
+            <lb ed="#J" n="53"/>ignis: ex quibus componitur, sed est aliquod  
+            <lb ed="#J" n="54"/>auditum, quare ergo etiam materia
+            cun<lb ed="#J" n="55" break="no"/>forma non sunt causantes aliquid terrium 
+            <lb ed="#J" n="56"/>aliud ab eis non video, Authoritas autem Con¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0828.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>i. phy. i. v. procedit de toto integrali &amp;
+            con<lb ed="#J" n="58" break="no"/>tinuo, quia sic etiam loquitur ibi
+            Philoso<lb ed="#J" n="59" break="no"/>phus, tale enim secundum rem non dicit aliquam
+            foi<lb ed="#J" n="60" break="no"/>mam tertiam distinctam ab esse partium 
+            <lb ed="#J" n="61"/>simul sumptarum, licet ergo teneam
+            tale<lb ed="#J" n="62" break="no"/>secundum rationem dicere formam aliquam distinctam 
+            <lb ed="#J" n="63"/>ab esse partium simul sumptarum. nam secudum
+            Phi<lb ed="#J" n="64" break="no"/>losophu.. meta. tex. con. i s. senarius
+            nume<lb ed="#J" n="65" break="no"/>rus non est bis tria. sed est semel sex. Si autem 
+            <lb ed="#J" n="66"/>velis illam propositionem Co. i. primi phy. dila 
+            <lb ed="#J" n="67"/>tare ad totum essentiale, dicas quod totum nihil 
+            <lb ed="#J" n="68"/>aliud est qua partes simul sumptae integratiue 
+            <lb ed="#J" n="69"/>&amp; constitutiue. &amp; sic ad authoritatem eius 
+            <lb ed="#J" n="70"/>supra in &amp; A huius dicas consecuenter. &amp; vi 
+            <lb ed="#J" n="71"/>de supra. vbi etiam diximus in illo loco. Quod 
+            <lb ed="#J" n="72"/>autem ista sit opinio Commen credo me 
+            <lb ed="#J" n="73"/>diffuse probasse super i. pliy. com. i v. &amp; tu 
+            <lb ed="#J" n="74"/>illuc recurras.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

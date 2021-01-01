@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 3</title>
+            <author ref="#per-sdv3av">Marcantonio Zimara</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 3</title>
+               <date when="2021-01-01">January 01, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-AAssXX">Venice 1562</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-01" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="-r"/>
+            <cb ed="#J" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHcsQQ-d1e157">
+            <head xml:id="GHcsQQ-d1e157-Hd1e107">Liber 3</head>
+            <p xml:id="GHcsQQ-d1e157-d1e110">
+               <lb ed="#J" n="62"/>S&amp; EVE2A NES 
+      <lb ed="#J" n="63"/>contradictionum in dictis 
+      <lb ed="#J" n="64"/>Auerromnis, 
+      <lb ed="#J" n="65"/>Super Tertio Metaphysicorum.
+    </p>
+            <div xml:id="GHcsQQ-d1e1592">
+               <head xml:id="GHcsQQ-d1e157-Hd1e123">Contradictio 1</head>
+               <p xml:id="GHcsQQ-d1e157-d1e126">
+                  <lb ed="#J" n="66"/>Contradictio est in com. i. Inqut 
+        <lb ed="#J" n="67"/>Auer. quod consuetudo Aristor. 
+        <lb ed="#J" n="68"/>fuit inducere sermones
+        di<lb ed="#J" n="69" break="no"/>sputatiuos in quidnibus diffici 
+        <lb ed="#J" n="70"/>libus. Huius tamen oppositum vide 
+        <lb ed="#J" n="71"/>tur dicereid es.t coeli. con.e. &amp;. i. de anima,
+        com<lb ed="#J" n="72" break="no"/>&amp; i. Solutio huius patet ex con. &amp;s. primi de 
+        <lb ed="#J" n="73"/>coelo. vide ibi, &amp; consydera.
+      </p>
+            </div>
+            <div xml:id="GHcsQQ-d1e1618">
+               <head xml:id="GHcsQQ-d1e157-Hd1e149">Contradictio 2</head>
+               <p xml:id="GHcsQQ-d1e157-d1e152">
+                  <lb ed="#J" n="74"/>Secunda contradi. est in conre. Dicit
+        Con<lb ed="#J" n="75" break="no"/>menta, quod nomina denominatiua
+        signifi<lb ed="#J" n="76" break="no"/>cant vnum compositum. Huius tamen oppositum 
+        <lb ed="#J" n="77"/>patet .i iet meta. con. i. 8. vbi vult, quod nomina de 
+        <lb ed="#J" n="78"/>nominatiua significant primo formam. 
+        <lb ed="#J" n="79"/>&amp;. v. meta. con. i 8. &amp; in praedicamentis
+        cap<lb ed="#J" n="80" break="no"/>de substantia, vbi dicitur, quod album non est in 
+        <lb ed="#J" n="81"/>genere propter suum duplex significare. &amp;  
+        <lb ed="#J" n="82"/>v. meta. con. allegato dicit quod, quando accidentia 
+        <lb ed="#J" n="83"/>per accidens sumpta fuerint in suis subies 
+        <lb ed="#J" n="84"/>ctis essentialibus, tunc hahebunt nomina 
+        <lb ed="#J" n="85"/>significantia vtrumque. De hoc vide, quae 
+        <lb ed="#J" n="86"/>scripsi super con. 8. secundi de anima. tamon 
+        <lb ed="#J" n="87"/>diffusius dicam infra. id est met. super con. ia 
+        <lb ed="#J" n="88"/>quia ibi est locus proprius.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

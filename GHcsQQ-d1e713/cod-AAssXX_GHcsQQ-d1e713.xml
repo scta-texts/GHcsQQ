@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 8</title>
+        <author ref="#per-sdv3av">Marcantonio Zimara</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 8</title>
+          <date when="2021-01-01">January 01, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="J" n="cod-AAssXX">Venice 1562</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#J" n="413-v"/>
+        <cb ed="#J" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHcsQQ-d1e713">
+        <head xml:id="GHcsQQ-d1e713-Hd1e107">Liber 8</head>
+        <p xml:id="GHcsQQ-d1e713-d1e110">
+          <lb ed="#J" n="75"/>S 2VH2AMES 
+          <lb ed="#J" n="76"/>Contradictionum in dictis 
+          <lb ed="#J" n="77"/>Arist. &amp; Auerrois 
+          <lb ed="#J" n="78"/>Super Octauo Metaphysicorum.
+        </p>
+        <div xml:id="GHcsQQ-d1e7148">
+          <head xml:id="GHcsQQ-d1e713-Hd1e123">Contradictio 1</head>
+          <p xml:id="GHcsQQ-d1e713-d1e126">
+            <lb ed="#J" n="79"/>COntradictio est super textu. 2 
+            <lb ed="#J" n="80"/>in isto enim tex. habetur quod substan 
+            <lb ed="#J" n="81"/>tia magis dicitur de genere, quae de 
+            <lb ed="#J" n="82"/>specie, &amp; de vniversali magis, quae dae par 
+            <lb ed="#J" n="83"/>ticulari. Huius tamen oppositum 
+            <lb ed="#J" n="84"/>determinatum est in v. meta. in tex. con.
+            a<lb ed="#J" n="85" break="no"/>vsque ad finem, vnde ibidem te. comi 8. expressae 
+            <lb ed="#J" n="86"/>dicitur quod nullum vniversaliter dictorum substantia est,
+            ne<lb ed="#J" n="87" break="no"/>quae vna ex substantiis. Amplius in praesenti 
+            <lb ed="#J" n="88"/>tex. ei. expresse dicitur. Item etiam nec vniversale
+            substan<lb ed="#J" n="89" break="no"/>tia nec geneus. &amp; ita in paruo spacio in eodem 
+            <lb ed="#J" n="90"/>respectu Philosophus sibiijpsi contrarius esse 
+            <lb ed="#J" n="91"/>videtur. Soluitur, vt innuit Co. hic in
+            prin<lb ed="#J" n="92" break="no"/>con. &amp; ita etiam dicit Michael Ephesius, quod 
+            <lb ed="#J" n="93"/>primum dictum est ex sententia
+            Antiquo<lb ed="#J" n="94" break="no"/>rum, non ex sententia Aristot. nam Aristot, 
+            <lb ed="#J" n="95"/>non vult genera, &amp; species esse substantias, 
+            <lb ed="#J" n="96"/>sed similitudines substantiarum
+            particula<lb ed="#J" n="97" break="no"/>rium, ex quibus collectae sunt. vt testatur 
+            <lb ed="#J" n="98"/>Commenta enim meta commen. 8. vbi dicit 
+            <lb ed="#J" n="99"/>vniuersalia apud Aristorelis sunt collecta 
+            <lb ed="#J" n="100"/>ex particularibus in intellectu, qui accipit 
+            <lb ed="#J" n="101"/>inter ea similitudinem, &amp; facit ea
+            intentio<lb ed="#J" n="102" break="no"/>nem vnam. &amp; i. meta. cominen Ac. int
+            elle<lb ed="#J" n="103" break="no"/>cta vniuersalia apud Aristo, non sunt
+            sub<lb ed="#J" n="104" break="no"/>stantiae rerum, sed significant rerum
+            sub<lb ed="#J" n="105" break="no"/>stantias. per hoc patet solutio. Et si
+            inste<lb ed="#J" n="106" break="no"/>tur, quod Aristote. 8. nmetaphy. tex. commen 
+            <lb ed="#J" n="107"/>A. dicit, quod substantia dicitur quatuor 
+            <lb ed="#J" n="108"/>modis. intel quos vnus est ipsum vniuersa¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0829.xml-->
+            <pb ed="#J" n="414-r"/>
+            <cb ed="#J" n="a"/>
+            <lb ed="#J" n="1"/>le. &amp; Commen etiam hic dicit substantia m 
+            <lb ed="#J" n="2"/>dici quatuor modis. Soluitur, quod vt dicit Com 
+            <lb ed="#J" n="3"/>men ibi, &amp; hic etiam illa diuisio est
+            secun<lb ed="#J" n="4" break="no"/>dum famam, sed secuindum rei veritatem 
+            <lb ed="#J" n="5"/>Aristo. substantiam diuidit illam
+            taminmeinm<lb ed="#J" n="6" break="no"/>bri diuisione, videlicet in matetiam, formam, 
+            <lb ed="#J" n="7"/>&amp; congregatum, sicut fecit. i. de anima. te 
+            <lb ed="#J" n="8"/>commen ei. &amp;. v. meta &amp;. 8. tex. commen. 5.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e7245">
+          <head xml:id="GHcsQQ-d1e713-Hd1e220">Contradictio 2</head>
+          <p xml:id="GHcsQQ-d1e713-d1e223">
+            <lb ed="#J" n="9"/>Secunda contradi. est in commen 2{
+            dici<lb ed="#J" n="10" break="no"/>Commen, quod oppositio est primo in loco 
+            <lb ed="#J" n="11"/>Huius oppositum videtur velle. 8. physi. con 
+            <lb ed="#J" n="12"/>i8. Soluitur refert dicere oppositionem pr 
+            <lb ed="#J" n="13"/>mo esse in loco, &amp; refert illam motui
+            loca<lb ed="#J" n="14" break="no"/>li inesse. Et quod hoc sit verum, notum est, quod 
+            <lb ed="#J" n="15"/>prima oppositio in loco reperitur. nam, cum 
+            <lb ed="#J" n="16"/>de ratione oppositorum sit distantia,
+            max<lb ed="#J" n="17" break="no"/>ma autem distentia reperitur in locoideo, &amp;c. 
+            <lb ed="#J" n="18"/>tamen non est per se notum, quod omne, quod  
+            <lb ed="#J" n="19"/>est mobile motu locali, talem oppositionem, 
+            <lb ed="#J" n="20"/>habeat, quare, &amp;c.
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e7280">
+          <head xml:id="GHcsQQ-d1e713-Hd1e255">Contradictio 3</head>
+          <p xml:id="GHcsQQ-d1e713-d1e258">
+            <lb ed="#J" n="21"/>Tertia contradict. est in tex. 8. Dicitur in 
+            <lb ed="#J" n="22"/>isto tex. quod materia, neque elementum est 
+            <lb ed="#J" n="23"/>neque ex eleiento. Huius tamen oppositum 
+            <lb ed="#J" n="24"/>memini me legisse in v primae philosophiae 
+            <lb ed="#J" n="25"/>in com. 8. vbi Commen in calce commen di 
+            <lb ed="#J" n="26"/>cit exponens verba Philosophi in fine ter 
+            <lb ed="#J" n="27"/>rus, vbi inquit. Omnibus vero
+            commun<lb ed="#J" n="28" break="no"/>est illud, cuiusquae esse elementum, quod 
+            <lb ed="#J" n="29"/>primum cuique inest. vbi Commenta.
+            di<lb ed="#J" n="30" break="no"/>cit, &amp;, cum definitio praedicta sit illa, quam  
+            <lb ed="#J" n="31"/>diximus, manifestum est quod verum
+            ele<lb ed="#J" n="32" break="no"/>mentum commuue est omnibus
+            compo<lb ed="#J" n="33" break="no"/>sitis, quod est primum, ex quo
+            componu<lb ed="#J" n="34" break="no"/>tur omnia, &amp; istud elementum dicitur esse 
+            <lb ed="#J" n="35"/>causa aliorum elementorum. &amp; hoc, quod  
+            <lb ed="#J" n="36"/>dixit, est prima materia. Amplius Com 
+            <lb ed="#J" n="37"/>menta. authoritate Alexand. plerumque 
+            <lb ed="#J" n="38"/>glosat exponens elementa pro causis intrin 
+            <lb ed="#J" n="39"/>secis, sicut est materia, &amp; forma. vt. i. physi 
+            <lb ed="#J" n="40"/>commeni. &amp;. 8. meta. commen. i. &amp;. i. mo 
+            <lb ed="#J" n="41"/>ta. comniten. ii. Soluitur. elementum, vt
+            di<lb ed="#J" n="42" break="no"/>cit Commien. in. i. coeli commen ini. quod  
+            <lb ed="#J" n="43"/>dam est vniuersale omnibus corporibus tam 
+            <lb ed="#J" n="44"/>simplicibus, quam compositis, &amp; de talibus 
+            <lb ed="#J" n="45"/>elementis Aristo. egit in i. physieae ausculta 
+            <lb ed="#J" n="46"/>tionis, &amp; talia elementa non sunt corpora 
+            <lb ed="#J" n="47"/>neque composita ex materia &amp; forma, sed sunt, 
+            <lb ed="#J" n="48"/>prima meteria &amp; forma. quaedam autem elementa 
+            <lb ed="#J" n="49"/>sunt corpora, quae sunt elementa corporum compo 
+            <lb ed="#J" n="50"/>sitorum &amp; tale elementum definitur ibi in  
+            <lb ed="#J" n="51"/>coeli tex. com. ii. &amp; de illis agitur in i. &amp;  
+            <lb ed="#J" n="52"/>A. lib. &amp; etiam in libro de generatione &amp; 
+            <lb ed="#J" n="53"/>corruptione, qui est liber de elementis, v 
+            <lb ed="#J" n="54"/>dicit Philosophus in. 8. de anima. in tex.
+            con<lb ed="#J" n="55" break="no"/>i v. Quando igitur dicunt Philosophus, &amp; 
+            <lb ed="#J" n="56"/>Conimenta. materiam non esse elemen¬ 
+            <!--Averroes_Metaphysica_JuntSecunda_08-0829.xml-->
+            <cb ed="#J" n="b"/>
+            <lb ed="#J" n="57"/>tum intelligunt quod non est elenientum 
+            <lb ed="#J" n="58"/>quod est corpus. qui enim ponit prin:ant 
+            <lb ed="#J" n="59"/>materiam esse corpus peccat: vt dicit
+            Con<lb ed="#J" n="60" break="no"/>menta enim met. com. i. a. &amp;. i. phiy. conm.d¬
+          </p>
+        </div>
+        <div xml:id="GHcsQQ-d1e7381">
+          <head xml:id="GHcsQQ-d1e713-Hd1e356">Contradictio 4</head>
+          <p xml:id="GHcsQQ-d1e713-d1e359">
+            <lb ed="#J" n="61"/>Quarta contradictio est in comnien io 
+            <lb ed="#J" n="62"/>Inquit formam substantialem non
+            recipe<lb ed="#J" n="63" break="no"/>re magis, nec minus. Instantia est de
+            for<lb ed="#J" n="64" break="no"/>mis elementorum. coeli. comnien &amp; v. 
+            <lb ed="#J" n="65"/>Soluitur. Habet locum in veris formis
+            sub<lb ed="#J" n="66" break="no"/>stantialibus: fallit in his, quae sunt mediae 
+            <lb ed="#J" n="67"/>inter substantiam, &amp; accidens. glosa
+            Auet<lb ed="#J" n="68" break="no"/>vbi supra. i. coeli. commen allegato. Nota 
+            <lb ed="#J" n="69"/>tamen quod licet formae perfectae non
+            re<lb ed="#J" n="70" break="no"/>cipiant magis, aut minus in sua essentia, 
+            <lb ed="#J" n="71"/>tamen vt sunt formae in materia, bene vt 
+            <lb ed="#J" n="72"/>sic recipere possunt magis, aut minus: sicut 
+            <lb ed="#J" n="73"/>innuit Commenta. hic in isto commen in 
+            <lb ed="#J" n="74"/>quit enini. vnus homo non est maioris
+            hu<lb ed="#J" n="75" break="no"/>manitatis, quanm alter secundum formam: 
+            <lb ed="#J" n="76"/>sed, si fuerit. erit secundum quod est
+            for<lb ed="#J" n="77" break="no"/>ma in materia. Nam forma humana
+            se<lb ed="#J" n="78" break="no"/>cundum dispositiones materiales, in
+            qui<lb ed="#J" n="79" break="no"/>bus existit, sic potest magis &amp; minus recipe 
+            <lb ed="#J" n="80"/>re, in tantum quod a Philosopho in ethicis 
+            <lb ed="#J" n="81"/>aliqui homines arborei, aliqui brutales,
+            ali<lb ed="#J" n="82" break="no"/>qui intellectuales, &amp; quasi terrestres Dil 
+            <lb ed="#J" n="83"/>nuncupantur. Aliqui enim, vt dicit
+            He<lb ed="#J" n="84" break="no"/>sidus, ad scientias capesc endas per solam 
+            <lb ed="#J" n="85"/>naturam sunt apti &amp; perfecti ex bonitate 
+            <lb ed="#J" n="86"/>complexionis, sicut fuit Hippocrates, &amp;  
+            <lb ed="#J" n="87"/>Aristote. Aliqui vero non per naturam, sed  
+            <lb ed="#J" n="88"/>per doctores excitantes nientes eorum. Qui 
+            <lb ed="#J" n="89"/>dam vero neutro modo apti sunt. &amp; isti 
+            <lb ed="#J" n="90"/>omnino ad discernendum verum a falso 
+            <lb ed="#J" n="91"/>omnino inutiles sunt. Patet autem quod
+            to<lb ed="#J" n="92" break="no"/>talis ista duersitas non prouenit, nisi ex
+            di<lb ed="#J" n="93" break="no"/>uersitate complexionis, &amp; dispositionum, 
+            <lb ed="#J" n="94"/>in quibus forma existit. Theologi etiam non 
+            <lb ed="#J" n="95"/>stri dicunt quod in puris naturalibus
+            ani<lb ed="#J" n="96" break="no"/>ma Christi fuit, &amp; est perfectior aninma ludae.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
